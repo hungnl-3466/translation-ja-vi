@@ -1,0 +1,41 @@
+{
+    "slide_0": [
+        {"id": 0, "bbox": [497, 806, 924, 524], "text": "2024\n/4"},
+        {"id": 1, "bbox": [127, 47, 693, 175], "text": "Đề xuất phát triển sản phẩm sử dụng AI"},
+        {"id": 2, "bbox": [170, 47, 913, 367], "text": "AI\nDevelopment"}
+    ],
+    "slide_1": [
+        {
+        "id": 0,
+        "bbox": [98, 518, 915, 375],
+        "text": "Sun* AI Research Team là một nhóm chuyên gia nhằm khám phá và phát triển các công nghệ AI tiên tiến. Đội ngũ này tiến hành nghiên cứu và thử nghiệm trong các lĩnh vực như deep learning, machine learning, natural language processing, image recognition, v.v. Được cấu thành bởi các chuyên gia thành thạo trong các lĩnh vực như computer science, applied mathematics, electronic engineering, information theory, đội ngũ này hướng tới việc vượt qua các thách thức hiện có trong lĩnh vực AI thông qua giải quyết vấn đề hợp tác, thực hiện các công nghệ AI vào thực tế, áp dụng vào doanh nghiệp của khách hàng, và đóng góp vào lợi ích của xã hội nói chung."
+        },
+        {
+        "id": 1,
+        "bbox": [118, 411, 893, 258],
+        "text": "Sun* AI Research Team là một nhóm nhằm khám phá và phát triển các công nghệ AI tiên tiến, tiến hành nghiên cứu và thử nghiệm trong các lĩnh vực như deep learning, machine learning, natural language processing, image recognition, v.v. Đội ngũ này được cấu thành bởi các chuyên gia thành thạo trong các lĩnh vực như computer science, applied mathematics, electronic engineering, information theory, và hướng tới việc thực hiện các công nghệ AI vào thực tế, áp dụng vào doanh nghiệp của khách hàng, và đóng góp vào lợi ích của xã hội nói chung."
+        },
+        {
+        "id": 2,
+        "bbox": [5, 8, 959, 75],
+        "text": "Chúng tôi là ai?\nMột tập thể chuyên gia nhằm khám phá và phát triển các công nghệ AI."
+        }
+    ],
+    "slide_2": [
+        {"id": 0, "bbox": [253, 214, 395, 301], "text": "Tran Duc Thang"},
+        {"id": 1, "bbox": [231, 214, 395, 264], "text": "R&D Unit Manager"},
+        {
+        "id": 2,
+        "bbox": [318, 214, 438, 504],
+        "text": "Sau khi học tại Đại học Keio bằng học bổng quốc gia và tốt nghiệp năm 2013, tôi trở về nước và tham gia Sun*. Tôi đã trải qua nhiều vị trí khác nhau như engineer, tech lead, BrSE, PM. Năm 2019, tôi tham gia vào việc thành lập bộ phận R&D và hiện đang là manager của bộ phận này. Tôi nghiên cứu và phát triển các công nghệ tiên tiến như AI, Cyber Security, Blockchain, DevOps, SRE, v.v."
+        },
+        {"id": 3, "bbox": [253, 509, 690, 301], "text": "Pham Van Toan"},
+        {"id": 4, "bbox": [231, 509, 690, 264], "text": "AI Research Specialist"},
+        {
+        "id": 5,
+        "bbox": [318, 509, 733, 504],
+        "text": "Gia nhập công ty năm 2016 và tham gia xây dựng team nghiên cứu AI. Tôi đã thực hiện nhiều dự án lớn nhỏ tại Sun* và có kinh nghiệm phong phú về AI products. Tôi đã viết hơn 30 bài báo khoa học trong các lĩnh vực như computer vision, natural language processing, signal processing, recommendation systems, và đã trình bày kết quả nghiên cứu của team AI của Sun* tại nhiều hội nghị quốc tế."
+        },
+        {"id": 6, "bbox": [6, 24, 506, 29], "text": "Sun* AI Research Team Profiles"}
+    ]
+}

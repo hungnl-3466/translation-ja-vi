@@ -1,0 +1,2276 @@
+{
+    "slide_0": [
+        {
+            "id": 0,
+            "list_text": [
+                "2024",
+                "/4"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Đề xuất phát triển sản phẩm sử dụng AI"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "AI",
+                "Development"
+            ]
+        }
+    ],
+    "slide_1": [
+        {
+            "id": 0,
+            "list_text": [
+                "Sun* AI Research Team là tập hợp các chuyên gia nhằm thực hiện việc nghiên cứu và phát triển các công nghệ AI tiên tiến. Đội ngũ của chúng tôi tiến hành nghiên cứu và thử nghiệm trong các lĩnh vực như deep learning, machine learning, natural language processing, và image recognition.",
+                "Được cấu thành bởi các chuyên gia thông thạo các lĩnh vực liên quan như computer science, applied mathematics, electronic engineering, và information theory. Thông qua việc hợp tác giải quyết vấn đề, chúng tôi nhắm đến việc vượt qua các thách thức hiện tại trong lĩnh vực AI, thực hiện hóa công nghệ AI, áp dụng vào các dự án của khách hàng, và góp phần mang lại lợi ích cho toàn xã hội."
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Sun* AI Research Team là đội ngũ nhằm thực hiện việc nghiên cứu và phát triển các công nghệ AI tiên tiến như deep learning, machine learning, natural language processing, image recognition. Đội ngũ của chúng tôi được cấu thành bởi các chuyên gia thông thạo các lĩnh vực như computer science, applied mathematics, electronic engineering, và information theory, nhắm đến việc thực hiện hóa công nghệ AI, áp dụng vào các dự án của khách hàng, và góp phần mang lại lợi ích cho toàn xã hội."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Who",
+                "We Are",
+                "Tập hợp các chuyên gia nhằm thực hiện việc nghiên cứu và phát triển các công nghệ AI tiên tiến"
+            ]
+        }
+    ],
+    "slide_2": [
+        {
+            "id": 0,
+            "list_text": [
+                "Tran Duc Thang"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "R&D Unit Manager"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Được học bổng quốc gia học tại Đại học Keio và sau khi tốt nghiệp năm 2013, anh tham gia Sun*. Anh đã trải qua nhiều vị trí như kỹ sư, tech lead, BrSE, PM. Tham gia thành lập bộ phận R&D vào năm 2019 và hiện là quản lý của bộ phận này. Anh tham gia nghiên cứu và phát triển các công nghệ tiên tiến như AI, Cyber Security, Blockchain, DevOps, SRE."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Pham Van Toan"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "AI Research Specialist"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Gia nhập công ty năm 2016 và tham gia xây dựng đội ngũ nghiên cứu AI. Anh đã tham gia nhiều dự án lớn nhỏ tại Sun* và có kinh nghiệm phong phú về sản phẩm AI. Anh đã viết hơn 30 bài báo khoa học trong các lĩnh vực như computer vision, natural language processing, signal processing, recommendation systems và đã trình bày kết quả nghiên cứu của đội ngũ AI Sun* tại nhiều hội nghị quốc tế."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Sun* AI Research Team Profiles"
+            ]
+        }
+    ],
+    "slide_3": [
+        {
+            "id": 0,
+            "list_text": [
+                "Chúng tôi hỗ trợ một loạt các lĩnh vực bao gồm Chatbot, Natural Language Processing (NLP), xử lý tín hiệu như âm thanh và EEG, Computer Vision, hệ thống gợi ý (Recommendation System), Data Science, và Edge AI.",
+                "Chúng tôi hỗ trợ một loạt các lĩnh vực bao gồm Computer Vision, hệ thống gợi ý (Recommendation System), Data Science, và Edge AI."
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Hỗ trợ các lĩnh vực rộng lớn trong ngành trí tuệ nhân tạo",
+                "Hỗ trợ"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Chúng tôi đã tiến hành nghiên cứu AI trong hơn 5 năm và phát triển các sản phẩm AI cho cả công ty và khách hàng."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Thành tích phong phú"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Why us",
+                "Điểm mạnh của đội ngũ AI Sun*"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Đã trình bày nhiều bài báo tại các hội nghị quốc tế về AI và đạt nhiều thành tích xuất sắc tại các cuộc thi AI trong và ngoài nước. Hiện tại, có 24 kỹ sư AI trong đội ngũ (tính đến tháng 5/2023)."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Đội ngũ nghiên cứu và kỹ sư hàng đầu về trí tuệ nhân tạo",
+                "Đội ngũ"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "1"
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "2"
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "3"
+            ]
+        }
+    ],
+    "slide_4": [
+        {
+            "id": 0,
+            "list_text": [
+                "Thành tựu nghiên cứu của đội ngũ nghiên cứu AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Đã đạt nhiều giải thưởng trong các cuộc thi liên quan đến AI tại Việt Nam và quốc tế.",
+                "Hơn 40",
+                "Có thành tích trình bày và được chấp nhận bài báo tại các hội nghị quốc tế."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "https://research.sun-asterisk.com/team-ai"
+            ]
+        }
+    ],
+    "slide_5": [
+        {
+            "id": 0,
+            "list_text": [
+                "Lợi ích của việc áp dụng AI",
+                "Benefits of adopting AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Hiệu quả và tự động hóa",
+                "Tự động hóa các nhiệm vụ lặp lại",
+                "Tiết kiệm thời gian và công sức"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Nâng cao độ chính xác",
+                "Giảm lỗi của con người,",
+                "Tăng độ chính xác trong xử lý dữ liệu"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Phân tích dự đoán",
+                "Tìm kiếm mẫu từ dữ liệu,",
+                "Dự đoán xu hướng tương lai"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Cá nhân hóa",
+                "Cung cấp trải nghiệm cá nhân hóa",
+                "Dựa trên hành vi của từng khách hàng"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Hỗ trợ ra quyết định",
+                "Hỗ trợ ra quyết định thông minh",
+                "Dựa trên những hiểu biết từ dữ liệu"
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Khám phá cơ hội kinh doanh mới",
+                "Tìm kiếm thị trường mới có thể bị bỏ qua",
+                "Bằng các phương pháp truyền thống"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Việc tích hợp AI vào phát triển sản phẩm có thể cải thiện chất lượng, nâng cao năng suất và thúc đẩy tăng trưởng kinh doanh"
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "1"
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "2"
+            ]
+        },
+        {
+            "id": 10,
+            "list_text": [
+                "3"
+            ]
+        },
+        {
+            "id": 11,
+            "list_text": [
+                "4"
+            ]
+        },
+        {
+            "id": 12,
+            "list_text": [
+                "5"
+            ]
+        },
+        {
+            "id": 13,
+            "list_text": [
+                "6"
+            ]
+        }
+    ],
+    "slide_6": [
+        {
+            "id": 0,
+            "list_text": [
+                "Dịch vụ"
+            ]
+        }
+    ],
+    "slide_7": [
+        {
+            "id": 0,
+            "list_text": [
+                "Hiện thực hóa ý tưởng",
+                "Chuyển đổi ý tưởng thành sản phẩm",
+                "Hỗ trợ trong nhiều lĩnh vực AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Dịch vụ AI của chúng tôi",
+                "AI",
+                "Services"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Nâng cao kinh doanh",
+                "Nghiên cứu kinh doanh",
+                "Ý tưởng tích hợp công nghệ AI",
+                "Đề xuất về việc chuẩn bị triển khai AI",
+                "Phân tích dữ liệu"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Tư vấn AI/Dữ liệu"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "1"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "2"
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "AI",
+                "Phát triển"
+            ]
+        }
+    ],
+    "slide_8": [
+        {
+            "id": 0,
+            "list_text": [
+                "Quy trình tư vấn AI",
+                ".",
+                "Quy trình tư vấn",
+                "AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "1"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Hiểu biết về doanh nghiệp",
+                "Thu thập thông tin nền tảng về dự án như lĩnh vực, mục tiêu kinh doanh, các bên liên quan, yêu cầu dự án, sản phẩm và lịch sử của nó"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "2"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Thu thập thông tin",
+                "Phát hiện các vấn đề hiện tại trong doanh nghiệp/hệ thống và tìm kiếm các vấn đề có thể được giải quyết bằng công nghệ AI"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "3"
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Đánh giá sẵn có và chất lượng dữ liệu",
+                "Khảo sát nguồn dữ liệu, lượng dữ liệu, chất lượng dữ liệu và mối liên hệ giữa các dữ liệu"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "4"
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Tạo ra ý tưởng",
+                "Tiến hành brainstorming để tạo ra tất cả các ý tưởng có thể áp dụng công nghệ AI"
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "5"
+            ]
+        },
+        {
+            "id": 10,
+            "list_text": [
+                "Lựa chọn điều cần phát triển",
+                "Ưu tiên và lựa chọn các ý tưởng phù hợp nhất dựa trên khả năng thực hiện, công sức đầu tư và giá trị tổng thể"
+            ]
+        },
+        {
+            "id": 11,
+            "list_text": [
+                "6"
+            ]
+        },
+        {
+            "id": 12,
+            "list_text": [
+                "Dự đoán giá trị được thêm vào bằng cách triển khai AI",
+                "Dự đoán giá trị kinh doanh được thêm vào khi triển khai các lựa chọn đã chọn"
+            ]
+        },
+        {
+            "id": 13,
+            "list_text": [
+                "7"
+            ]
+        },
+        {
+            "id": 14,
+            "list_text": [
+                "Đề xuất",
+                "Tóm tắt kết quả nghiên cứu và đề xuất cho khách hàng"
+            ]
+        },
+        {
+            "id": 15,
+            "list_text": [
+                "8"
+            ]
+        },
+        {
+            "id": 16,
+            "list_text": [
+                "Triển khai và triển khai",
+                "Bắt đầu phát triển tính năng AI"
+            ]
+        },
+        {
+            "id": 17,
+            "list_text": [
+                "9"
+            ]
+        },
+        {
+            "id": 18,
+            "list_text": [
+                "Đánh giá kết quả",
+                "Đánh giá việc duy trì và kết quả thực tế sau khi triển khai AI"
+            ]
+        },
+        {
+            "id": 19,
+            "list_text": [
+                "10"
+            ]
+        },
+        {
+            "id": 20,
+            "list_text": [
+                "Hỗ trợ liên tục",
+                "Cung cấp hỗ trợ liên tục để doanh nghiệp duy trì và quản lý hệ thống AI"
+            ]
+        }
+    ],
+    "slide_9": [
+        {
+            "id": 0,
+            "list_text": [
+                "Khả năng"
+            ]
+        }
+    ],
+    "slide_10": [
+        {
+            "id": 0,
+            "list_text": [
+                "Natural language processing",
+                "Natural language processing"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "1"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Phát hiện ngoại lệ: Phát hiện thư rác",
+                "Phát hiện xem văn bản đó có phải là thư rác, không liên quan, hoặc là bình thường không"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "2"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Phân loại văn bản",
+                "Xác định xem văn bản cho trước có thuộc một (hoặc nhiều) danh mục cụ thể đã được chỉ định không"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "3"
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Phát hiện ngôn ngữ",
+                "Phát hiện xem văn bản hoặc mã nguồn được viết bằng ngôn ngữ/nhóm ngôn ngữ nào (có thể là ngôn ngữ của con người hoặc ngôn ngữ lập trình)"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "4"
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Phát hiện lời lẽ xúc phạm tự động",
+                "Phát hiện xem văn bản cho trước có chứa lời lẽ xúc phạm không"
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "5"
+            ]
+        },
+        {
+            "id": 10,
+            "list_text": [
+                "Phát hiện sao chép",
+                "Phát hiện xem văn bản cho trước có phải là một bản sao từ đâu đó (toàn bộ hoặc một phần lớn) không"
+            ]
+        },
+        {
+            "id": 11,
+            "list_text": [
+                "6"
+            ]
+        },
+        {
+            "id": 12,
+            "list_text": [
+                "Model chủ đề/rút trích từ khóa",
+                "Xuất ra các chủ đề hoặc từ khóa khi có một tập hợp các câu hoặc tài liệu cho trước"
+            ]
+        },
+        {
+            "id": 13,
+            "list_text": [
+                "7"
+            ]
+        },
+        {
+            "id": 14,
+            "list_text": [
+                "Trả lời câu hỏi",
+                "Xuất ra câu trả lời chính xác cho câu hỏi được cung cấp"
+            ]
+        },
+        {
+            "id": 15,
+            "list_text": [
+                "8"
+            ]
+        },
+        {
+            "id": 16,
+            "list_text": [
+                "Trích xuất thực thể đặc trưng",
+                "Trích xuất thực thể đã được đề cập từ đầu vào chuỗi"
+            ]
+        },
+        {
+            "id": 17,
+            "list_text": [
+                "9"
+            ]
+        },
+        {
+            "id": 18,
+            "list_text": [
+                "Bot trò chuyện",
+                "Hiểu yêu cầu/yêu cầu của người trò chuyện từ văn bản"
+            ]
+        },
+        {
+            "id": 19,
+            "list_text": [
+                "Có kinh nghiệm trong các lĩnh vực xử lý ngôn ngữ tự nhiên sau đây"
+            ]
+        }
+    ],
+    "slide_11": [
+        {
+            "id": 0,
+            "list_text": [
+                "Natural language processing",
+                "Natural language processing. ",
+                "Ví dụ triển khai: VIBLO"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Phát hiện thư rác",
+                "Phát hiện ngôn ngữ lập trình",
+                "Phát hiện sao chép"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "https://viblo.asia/"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Viblo.asia được phát triển và vận hành bởi Sun*",
+                "Một nền tảng cộng đồng dành cho",
+                "Cộng đồng kỹ sư",
+                "Với MAU trung bình hàng tháng là hơn 700.000 người",
+                "Với hơn 3 triệu lượt truy cập trang hàng tháng"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Các lĩnh vực xử lý ngôn ngữ tự nhiên đã triển khai"
+            ]
+        }
+    ],
+    "slide_12": [
+        {
+            "id": 0,
+            "list_text": [
+                "Natural language processing",
+                "Natural language processing",
+                "Các ngành công nghiệp tiềm năng"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Hiệu quả đối với các doanh nghiệp xử lý lượng dữ liệu văn bản lớn và tương tác khách hàng."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Y tế",
+                "Natural language processing (NLP) hỗ trợ phân tích hồ sơ bệnh nhân, giúp bác sĩ đưa ra chẩn đoán dễ dàng hơn và theo dõi tiến triển của tình trạng bệnh nhân",
+                "."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Thương mại điện tử",
+                "NLP được sử dụng để phân tích đánh giá và phản hồi của khách hàng, tối ưu hóa việc đề xuất sản phẩm và cá nhân hóa trải nghiệm mua sắm."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Dịch vụ khách hàng",
+                "NLP được áp dụng trong việc phát triển chatbot và trợ lý ảo, hỗ trợ khách hàng tìm kiếm câu trả lời cho các vấn đề ",
+                "."
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Luật",
+                "NLP hỗ trợ phân tích tài liệu pháp lý và hợp đồng, giúp luật sư xác định thông tin liên quan và đưa ra quyết định dựa trên nó."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Tài chính",
+                "NLP được sử dụng để phân tích tin tức và dữ liệu tài chính, hỗ trợ các nhà đầu tư đưa ra quyết định đầu tư phù hợp hơn."
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Marketing",
+                "NLP được sử dụng để phân tích cuộc trò chuyện trên mạng xã hội và phản hồi của khách hàng, giúp các doanh nghiệp hiểu sâu hơn về khách hàng và tạo ra chiến lược tiếp thị phù hợp."
+            ]
+        }
+    ],
+    "slide_13": [
+        {
+            "id": 0,
+            "list_text": [
+                "Xử lý tín hiệu (Âm thanh, EEG ...)",
+                "Điều xử lý tín hiệu (Âm thanh, EEG ...)"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "1"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Tìm kiếm âm nhạc",
+                "Phát hiện tên bài hát từ đoạn âm thanh, và khám phá các bài hát tương tự dựa trên âm nhạc"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "2"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Phân loại âm thanh",
+                "Phát hiện xem âm thanh cho trước có thuộc một (hoặc nhiều) danh mục cụ thể hay không"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "3"
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Từ văn bản sang âm thanh (Hệ thống tổng hợp giọng nói)",
+                "Tạo ra giọng nói giống con người từ bản trích dẫn văn bản"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "4"
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Canh âm vị trí, Nhận dạng giọng nói",
+                "Hỗ trợ cải thiện phát âm cho người học, so sánh phát âm của người học với văn bản chính xác và phát hiện các từ phát âm sai, cung cấp phản hồi cho người học"
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "5"
+            ]
+        },
+        {
+            "id": 10,
+            "list_text": [
+                "Nhận diện cảm xúc qua giọng nói",
+                "Phát hiện cảm xúc của người nói từ âm thanh"
+            ]
+        },
+        {
+            "id": 11,
+            "list_text": [
+                "6"
+            ]
+        },
+        {
+            "id": 12,
+            "list_text": [
+                "Nhận diện cảm xúc qua EEG",
+                "Thu thập dữ liệu sinh học (EEG) từ người dùng, phân tích nó bằng thuật toán AI và suy luận về cảm xúc của người dùng dựa trên kết quả phân tích"
+            ]
+        },
+        {
+            "id": 13,
+            "list_text": [
+                "Có kinh nghiệm trong các lĩnh vực xử lý tín hiệu sau đây"
+            ]
+        },
+        {
+            "id": 14,
+            "list_text": [
+                "Hệ thống đọc văn bản tiếng Việt",
+                "(text-to-speech)",
+                "Chuyển đổi giọng nói tiếng Nhật",
+                "Tách giọng hát của ca sĩ",
+                "Tìm kiếm âm nhạc tương tự",
+                "Điểm số phát âm tiếng Nhật (Ứng dụng Talky Bird)"
+            ]
+        },
+        {
+            "id": 15,
+            "list_text": [
+                "Ví dụ về thực hiện thử nghiệm Proof of Concept (PoC)"
+            ]
+        }
+    ],
+    "slide_14": [
+        {
+            "id": 0,
+            "list_text": [
+                "Signal processing (Audio, EEG ...)",
+                "The use of signal processing (audio, EEG, etc.)",
+                "Các ngành có thể ứng dụng xử lý tín hiệu (Âm thanh, EEG...)",
+                "."
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Nó là hiệu quả trong các doanh nghiệp xử lý dữ liệu âm thanh / tín hiệu và các doanh nghiệp phát triển sản phẩm chứa âm thanh / tín hiệu khác nhau.",
+                "."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Giải trí",
+                "Xử lý âm thanh nâng cao chất lượng âm thanh và trải nghiệm nghe, rút ngắn thời gian sản xuất bằng giọng nói tự động, phát hiện nội dung bảo vệ bản quyền."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Giáo dục",
+                "Xử lý âm thanh hỗ trợ ứng dụng học ngoại ngữ, cải thiện phát âm và luyện tập hội thoại"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Chăm sóc sức khỏe",
+                "Trong ngành y, xử lý âm thanh nâng cao chất lượng hình ảnh y tế và kiểm tra chẩn đoán, tăng độ chính xác và độ tin cậy bằng các phương pháp như lọc, nén và làm nổi bật tín hiệu."
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Bảo mật",
+                "ử lý âm thanh giúp hệ thống an ninh giám sát và phát hiện mối đe dọa, nhận diện và phân tích âm thanh."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Truyền thông/Dịch vụ khách hàng",
+                "Xử lý âm thanh cải thiện chất lượng âm thanh trong cuộc gọi điện thoại và video, loại bỏ tiếng ồn nền, chuyển đổi giọng nói."
+            ]
+        }
+    ],    
+    "slide_15": [
+        {
+            "id": 0,
+            "list_text": [
+                "Computer Vision",
+                "Computer Vision"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "1"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Tìm kiếm ảnh ngược",
+                "Tìm kiếm nguồn gốc của hình ảnh từ hình ảnh hoặc tìm kiếm hình ảnh/phương tiện liên quan"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "2"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Nhận dạng quần áo",
+                "Phát hiện và phân loại các mục quần áo từ hình ảnh (Thời trang)"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "3"
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Chấm điểm tự động",
+                "Chuyển đổi câu trả lời từ quét bài kiểm tra và chấm điểm kết quả"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "4"
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "OCR",
+                "Trích xuất văn bản tương ứng từ tài liệu số"
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "5"
+            ]
+        },
+        {
+            "id": 10,
+            "list_text": [
+                "Giấu thông tin trong ảnh",
+                "Công nghệ giấu thông tin hình ảnh trong hình ảnh, giọng nói trong âm thanh, hoặc hình ảnh trong âm thanh"
+            ]
+        },
+        {
+            "id": 11,
+            "list_text": [
+                "6"
+            ]
+        },
+        {
+            "id": 12,
+            "list_text": [
+                "Trích xuất video trang điểm",
+                "Hệ thống theo dõi chuyển động của đầu cọ trang điểm và tạo ra biểu đồ nhiệt độ và tần suất trang điểm trên khuôn mặt."
+            ]
+        },
+        {
+            "id": 13,
+            "list_text": [
+                "Sau đây",
+                "Lĩnh vực Computer Vision.",
+                "Có thành tích trong lĩnh vực này"
+            ]
+        },
+        {
+            "id": 14,
+            "list_text": [
+                "7"
+            ]
+        },
+        {
+            "id": 15,
+            "list_text": [
+                "Phân loại ảnh",
+                "Phát hiện xem hình ảnh cho một hoặc nhiều danh mục đã được chỉ định hay không"
+            ]
+        },
+        {
+            "id": 16,
+            "list_text": [
+                "8"
+            ]
+        },
+        {
+            "id": 17,
+            "list_text": [
+                "Phát hiện đối tượng",
+                "Phát hiện tất cả các đối tượng và vị trí của chúng từ hình ảnh hoặc video"
+            ]
+        },
+        {
+            "id": 18,
+            "list_text": [
+                "9"
+            ]
+        },
+        {
+            "id": 19,
+            "list_text": [
+                "Phân đoạn ảnh",
+                "Xuất ra các vùng con ở mức độ pixel mong muốn nếu một hình ảnh được cung cấp"
+            ]
+        },
+        {
+            "id": 20,
+            "list_text": [
+                "10"
+            ]
+        },
+        {
+            "id": 21,
+            "list_text": [
+                "Phát hiện/Nhận dạng khuôn mặt",
+                "Phát hiện cá nhân tương ứng trong hình ảnh hoặc video trực tiếp chứa khuôn mặt"
+            ]
+        },
+        {
+            "id": 22,
+            "list_text": [
+                "11"
+            ]
+        },
+        {
+            "id": 23,
+            "list_text": [
+                "Tạo màu cho ảnh",
+                "Xuất ra hình ảnh màu gốc hoặc được sửa màu từ hình ảnh xám hoặc hình ảnh đen trắng"
+            ]
+        }
+    ],
+    "slide_16": [
+        {
+            "id": 0,
+            "list_text": [
+                "Computer Vision",
+                "Computer Vision"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Nhận dạng ký tự quang học trên hóa đơn tiếng Nhật",
+                "Theo dõi hành động con người trong cuộc họp video để di chuyển nhân vật 3D",
+                "Biến đổi ảnh 3D của đầu người",
+                "Phát hiện hỏng hóc và ước tính chi phí sửa chữa xe",
+                "Công cụ chuyển đổi hình ảnh công thức thành LaTeX",
+                "Tìm kiếm quần áo tương tự"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Thực tế",
+                "phát triển và",
+                "PoC (Proof of Concept)",
+                "đã thực hiện",
+                "ví dụ"
+            ]
+        }
+    ],
+    "slide_17": [
+        {
+            "id": 0,
+            "list_text": [
+                "Computer Vision",
+                "Thị giác máy tính trong các ngành công nghiệp tiềm năng"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Có thể sử dụng trong nhiều ngành công nghiệp, mang lại lợi ích lớn cho các doanh nghiệp cần phân tích hình ảnh hoặc video",
+                "。"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Nông nghiệp",
+                "Có thể được sử dụng để giám sát và phân tích mùa vụ, phát hiện bệnh và dự báo lượng thu hoạch."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Giải trí",
+                "Có thể được sử dụng để tạo ra nội dung như hiệu ứng đặc biệt trong phim và trò chơi video."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Thể thao",
+                "Có thể được sử dụng để phân tích hiệu suất, theo dõi các vận động viên và hỗ trợ quyết định của trọng tài."
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Giáo dục",
+                "Có thể được sử dụng cho học tập cá nhân, đánh giá và tham gia của học sinh."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Xây dựng",
+                "Có thể được sử dụng cho giám sát tiến độ, quản lý chất lượng và tuân thủ an toàn."
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Giao thông",
+                "Có thể được sử dụng cho phân tích giao thông, phát hiện người đi bộ và giám sát cơ sở hạ tầng."
+            ]
+        }
+    ],
+    "slide_18": [
+        {
+            "id": 0,
+            "list_text": [
+                "Computer Vision",
+                "Tầm nhìn máy tính",
+                "được dự kiến sẽ được áp dụng trong",
+                "các ngành công nghiệp"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Có thể áp dụng trong nhiều ngành công nghiệp khác nhau, mang lại lợi ích lớn cho các doanh nghiệp cần phân tích hình ảnh hoặc video",
+                "。"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Du lịch",
+                "Thị giác máy tính được sử dụng để cung cấp thông tin du lịch, tạo ra trải nghiệm thực tế ảo, và nhận diện các danh lam thắng cảnh."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Chăm sóc sức khỏe",
+                "Thị giác máy tính được sử dụng để phân tích hình ảnh y học, phát hiện bệnh tật, và phát triển thuốc."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Giám sát môi trường",
+                "Thị giác máy tính được sử dụng để giám sát và phân tích thay đổi thời tiết, hành vi của động vật hoang dã, và mức độ ô nhiễm."
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Công nghiệp sản xuất",
+                "Thị giác máy tính hỗ trợ quản lý chất lượng, phát hiện khuyết điểm, và thực hiện các hoạt động bảo dưỡng dự phòng."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Bán lẻ",
+                "Sử dụng thị giác máy tính để phân tích hành vi và sở thích của khách hàng, tối ưu hóa bố trí cửa hàng, và chiến lược tiếp thị."
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Bảo mật",
+                "Thị giác máy tính có thể được sử dụng trong giám sát, nhận dạng khuôn mặt, và phát hiện mối đe dọa."
+            ]
+        }
+    ],
+    "slide_19": [
+        {
+            "id": 0,
+            "list_text": [
+                "Recommendation System",
+                "Hệ thống gợi ý"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Hệ thống gợi ý cho bài báo khoa học",
+                "Hệ thống gợi ý rượu vang",
+                "Hệ thống gợi ý bài hát",
+                "Phân tích hành vi lái xe và hệ thống gợi ý"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Các ví dụ đã được triển khai hoặc thử nghiệm"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Hệ thống đề xuất theo nhiều cách khác nhau như lọc dựa trên nội dung, lọc cộng tác, và hệ thống gợi ý kết hợp, mang lại đề xuất cho người dùng."
+            ]
+        }
+    ],
+    "slide_20": [
+        {
+            "id": 0,
+            "list_text": [
+                "Recommendation System",
+                "Ví dụ các ngành có thể ứng dụng hệ thống gợi ý"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Các doanh nghiệp xử lý lượng dữ liệu lớn và có thể cá nhân hóa sản phẩm hoặc dịch vụ sẽ hưởng lợi từ việc triển khai hệ thống gợi ý."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Doanh nghiệp e-commerce",
+                "Trên thị trường trực tuyến, hệ thống gợi ý được sử dụng để đề xuất sản phẩm dựa trên lịch sử duyệt web và mua hàng của khách hàng."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Dịch vụ streaming",
+                "Hệ thống gợi ý sử dụng xu hướng xem và nghe của người dùng để đề xuất phim, chương trình truyền hình và âm nhạc."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Nền tảng mạng xã hội",
+                "Hệ thống gợi ý được sử dụng để đề xuất kết nối mới, trang, bài đăng dựa trên hoạt động của người dùng."
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Đại lý du lịch trực tuyến",
+                "Hệ thống gợi ý được sử dụng để đề xuất khách sạn, chuyến bay, thuê nhà dựa trên lịch sử du lịch của người dùng."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Giao đồ ăn",
+                "Hệ thống gợi ý được sử dụng để đề xuất nhà hàng và món ăn dựa trên sở thích và lịch sử đặt hàng của người dùng."
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Doanh nghiệp tin tức và truyền thông",
+                "Hệ thống gợi ý được sử dụng để đề xuất bài viết, video, podcast dựa trên lịch sử duyệt web."
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Doanh nghiệp game",
+                "Hệ thống gợi ý được sử dụng để đề xuất game mới dựa trên xu hướng chơi và sở thích của người chơi."
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "Ứng dụng fitness",
+                "Hệ thống gợi ý được sử dụng để đề xuất kế hoạch tập luyện và chế độ ăn uống cá nhân hóa dựa trên mục tiêu và hoạt động trước đó của người dùng."
+            ]
+        }
+    ],
+    "slide_21": [
+        {
+            "id": 0,
+            "list_text": [
+                "Data Science",
+                "Data Science"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Phân tích hành vi lái xe",
+                "Phân tích xu hướng thuê xe"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Ví dụ phát triển và thực hiện PoC"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Hỗ trợ doanh nghiệp",
+                "thực hiện phân tích dữ liệu, nhận được thông tin chi tiết và đưa ra quyết định dựa trên dữ liệu.",
+                "Sử dụng các công nghệ tiên tiến như Machine Learning và phân tích thống kê để xác định các mô hình và xu hướng trong tập dữ liệu."
+            ]
+        }
+    ],
+    "slide_22": [
+        {
+            "id": 0,
+            "list_text": [
+                "Data Science",
+                "Data Science"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Các doanh nghiệp có thể truy cập lượng lớn dữ liệu và muốn đưa ra quyết định dựa trên dữ liệu sẽ hưởng lợi từ việc áp dụng khoa học dữ liệu vào sản phẩm của mình."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Doanh nghiệp e-commerce",
+                "Có thể dự đoán nhu cầu và đề xuất sản phẩm cá nhân hóa dựa trên dữ liệu hành vi khách hàng."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Chăm sóc sức khỏe",
+                "Có thể áp dụng khoa học dữ liệu vào hỗ trợ chẩn đoán, phát triển thuốc mới, giám sát bệnh nhân."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Tài chính",
+                "Khoa học dữ liệu được sử dụng để phát hiện gian lận, đánh giá rủi ro, tối ưu hóa quản lý tài sản."
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Giao thông",
+                "Có thể sử dụng khoa học dữ liệu để chọn tuyến đường tối ưu, giảm tiêu thụ nhiên liệu, cải thiện an toàn."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Năng lượng",
+                "Có thể tối ưu hóa tiêu thụ năng lượng, dự đoán nhu cầu, phân phối năng lượng hiệu quả."
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Nông nghiệp",
+                "Khoa học dữ liệu được sử dụng để dự đoán sản lượng thu hoạch, dự báo thời tiết, giám sát sức khỏe đất."
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Quảng cáo",
+                "Có thể sử dụng khoa học dữ liệu để phân phối quảng cáo cho mục tiêu cụ thể, tối ưu hóa vị trí quảng cáo, đo lường hiệu quả chiến dịch quảng cáo."
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "Sản xuất",
+                "Khoa học dữ liệu giúp tối ưu hóa quy trình sản xuất, giảm lãng phí, cải thiện chất lượng sản phẩm."
+            ]
+        },
+        {
+            "id": 10,
+            "list_text": [
+                "Bán lẻ",
+                "Có thể quản lý tồn kho, dự đoán nhu cầu, thực hiện các chương trình khuyến mãi cá nhân hóa."
+            ]
+        },
+        {
+            "id": 11,
+            "list_text": [
+                "Giáo dục",
+                "ó thể tối ưu hóa trải nghiệm học tập, dự đoán kết quả học tập, xác định hỗ trợ cần thiết cho học sinh."
+            ]
+        }
+    ],
+    "slide_23": [
+        {
+            "id": 0,
+            "list_text": [
+                "Edge Computing",
+                "Edge Computing"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Hệ thống khóa cửa dựa trên nhận diện khuôn mặt"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Ví dụ phát triển và thực hiện PoC"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Dịch vụ điện toán biên mang tài nguyên tính toán đến gần thiết bị tạo dữ liệu hơn, cung cấp xử lý dữ liệu nhanh hơn và hiệu quả hơn.",
+                "Điều này cho phép phân tích dữ liệu thời gian thực, cải thiện ra quyết định và thời gian phản ứng."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Đặc điểm của ",
+                "Edge Computing"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Nhanh hơn so với Cloud Computing",
+                "Giảm yêu cầu băng thông, chi phí băng thông internet và lưu trữ đám mây",
+                "Kết hợp mức độ bảo mật cao và tốc độ cao cải thiện độ tin cậy của hệ thống Edge AI",
+                "Xử lý Edge Computing tại biên của thiết bị rất tiết kiệm chi phí và giảm chi phí"
+            ]
+        }
+    ],
+    "slide_24": [
+        {
+            "id": 0,
+            "list_text": [
+                "Edge AI",
+                "Ứng dụng của điện toán biên",
+                "trong các ngành"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Các công ty đã có mô hình/hệ thống AI và muốn triển khai trên ứng dụng di động/web, các công ty muốn phát triển ứng dụng có chức năng AI"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Y tế",
+                "Edge AI được sử dụng trong thiết bị y tế để phân tích dữ liệu bệnh nhân, phát hiện bất thường theo thời gian thực, và cho phép chẩn đoán và điều trị nhanh hơn."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Giao thông",
+                "Edge AI được sử dụng trong các phương tiện tự hành để cải thiện an toàn, tối ưu hóa lộ trình lái xe, và nâng cao trải nghiệm lái xe tổng thể."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Nông nghiệp",
+                "Edge AI được sử dụng trong thiết bị nông nghiệp để tối ưu hóa năng suất cây trồng, phát hiện và ngăn ngừa bệnh tật, và giảm lãng phí tài nguyên."
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Mua sắm ảo",
+                "Bằng cách kết hợp thực tế tăng cường, người tiêu dùng có thể sử dụng thiết bị di động để hình dung sản phẩm trong môi trường của mình."
+            ]
+        }
+    ],
+    "slide_25": [
+        {
+            "id": 0,
+            "list_text": [
+                "Generative AI",
+                "Generative AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Generative AI là trí tuệ nhân tạo tạo ra các loại nội dung khác nhau như văn bản, hình ảnh, âm thanh, video, mã, dữ liệu tổng hợp. Generative AI sử dụng các thuật toán thông minh để phân tích các mẫu dữ liệu hiện có và tạo ra nội dung thực và nguyên bản."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "OpenAI",
+                "ChatGPT"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Google",
+                "Gemini"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Midjourney"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Stable Diffusion"
+            ]
+        }
+    ],
+    "slide_26": [
+        {
+            "id": 0,
+            "list_text": [
+                "Generative AI",
+                "Generative AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Lợi ích của Generative AI với khả năng tạo ra thông tin mới như con người"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Sáng tạo",
+                "Có khả năng tạo ra nội dung mới. Điều này bao gồm tạo nhạc, thơ, hình ảnh và thậm chí là thiết kế hoàn toàn mới."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Tự động hóa",
+                "Có khả năng tự động hóa nhiều tác vụ như công việc lặp đi lặp lại, tạo báo cáo, và tạo nội dung."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Cá nhân hóa",
+                "Tạo ra nội dung cá nhân hóa dựa trên hành vi và sở thích trước đó của người dùng, nâng cao sự tương tác."
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Khả năng mở rộng",
+                "Mô hình đã được huấn luyện có khả năng xử lý lượng dữ liệu lớn và thực hiện các tác vụ quy mô lớn nhanh chóng."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Mở rộng và bổ sung dữ liệu",
+                "Tạo ra dữ liệu mới dựa trên dữ liệu hiện có, giúp mở rộng tập dữ liệu và bổ sung dữ liệu thiếu hụt."
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Khả năng dự đoán",
+                "Thuật toán học máy có khả năng dự đoán sự kiện tương lai dựa trên các mẫu trong quá khứ, tạo ra kịch bản và kết quả có thể xảy ra trong tương lai."
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Hiểu biết thông tin",
+                "Hiểu và tạo ra nội dung mới từ văn bản, hình ảnh, âm nhạc, giúp giải quyết vấn đề và cung cấp góc nhìn mới."
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "Generative AI không hoàn hảo, có khả năng tạo ra thông tin sai và gặp phải các vấn đề đạo đức. Để giải quyết những vấn đề này, cần có sự huấn luyện, giám sát, và điều chỉnh thích hợp."
+            ]
+        }
+    ],
+    "slide_27": [
+        {
+            "id": 0,
+            "list_text": [
+                "Generative AI",
+                "Generative AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Công ty chúng tôi cung cấp dịch vụ ứng dụng Generative AI (như ChatGPT và Stable Diffusion) trong kinh doanh."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Ví dụ dịch vụ sử dụng ChatGPT và Stable Diffusion"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Prompt Engineering",
+                "Tạo ra các prompt hoặc chỉ dẫn cho các mô hình ngôn ngữ như ChatGPT và Stable Diffusion để có được phản hồi mong muốn."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Chatbot tích hợp ChatGPT"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Tạo nội dung và",
+                "Tự động hóa"
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Dịch ngôn ngữ và",
+                "Giao tiếp"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Phân tích cảm xúc"
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Tùy chỉnh mô hình AI",
+                "Tùy chỉnh mô hình đã học để phù hợp với tập dữ liệu cụ thể, tạo ra trải nghiệm đối thoại cá nhân hóa và chính xác hơn."
+            ]
+        }
+    ],
+    "slide_28": [
+        {
+            "id": 0,
+            "list_text": [
+                "Generative AI",
+                "Generative AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Ví dụ về các doanh nghiệp có thể ứng dụng Generative AI như ChatGPT và Stable Diffusion."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "E-commerce và",
+                "Bán lẻ"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Truyền thông và",
+                "Giải trí"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Marketing và",
+                "Quảng cáo"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Game và",
+                "Thực tế ảo"
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Ví dụ sử dụng ChatGPT",
+                "Hỗ trợ khách hàng cá nhân hóa, trả lời câu hỏi về sản phẩm, cung cấp đề xuất."
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Ví dụ sử dụng ChatGPT",
+                "Phát triển host ảo AI và đề xuất nội dung cá nhân hóa."
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Ví dụ sử dụng ChatGPT",
+                "Hỗ trợ tạo nội dung marketing hấp dẫn và cá nhân hóa, phát triển quảng cáo chatbot tương tác trên mạng xã hội."
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "Ví dụ sử dụng ChatGPT",
+                "Tăng cường đối thoại trong game và cung cấp trải nghiệm kể chuyện tương tác."
+            ]
+        },
+        {
+            "id": 10,
+            "list_text": [
+                "Ví dụ sử dụng Stable Diffusion",
+                "Tạo hình ảnh sản phẩm tùy chỉnh và cung cấp trải nghiệm thử đồ ảo."
+            ]
+        },
+        {
+            "id": 11,
+            "list_text": [
+                "Ví dụ sử dụng Stable Diffusion",
+                "Phát triển kể chuyện tương tác, tạo hiệu ứng hình ảnh động và nhân vật ảo."
+            ]
+        },
+        {
+            "id": 12,
+            "list_text": [
+                "Ví dụ sử dụng Stable Diffusion",
+                "Tạo hình ảnh tùy chỉnh và mô phỏng vị trí sản phẩm trong các kịch bản khác nhau."
+            ]
+        },
+        {
+            "id": 13,
+            "list_text": [
+                "Ví dụ sử dụng Stable Diffusion",
+                "Tạo đồ họa chân thực, thiết kế nhân vật game và tạo môi trường ảo động."
+            ]
+        }
+    ],
+    "slide_29": [
+        {
+            "id": 0,
+            "list_text": [
+                "Dịch vụ liên quan đến công ty: Tư vấn trực tuyến / Đào tạo AI"
+            ]
+        }
+    ],
+    "slide_30": [],
+    "slide_31": [],
+    "slide_32": [
+        {
+            "id": 0,
+            "list_text": [
+                "Computer Vision",
+                "Ví dụ PoC"
+            ]
+        }
+    ],
+    "slide_33": [
+        {
+            "id": 0,
+            "list_text": [
+                "Computer Vision",
+                "Computer Vision"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Math equation to LaTeX converter",
+                "(video)"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Japanese OCR demo",
+                "(video)"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Nhận dạng ký tự quang học (OCR) cho tiếng Nhật"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Công cụ chuyển đổi công thức toán học sang LaTeX"
+            ]
+        }
+    ],
+    "slide_34": [
+        {
+            "id": 0,
+            "list_text": [
+                "Computer Vision",
+                "Computer Vision"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Công cụ trích xuất thông tin ứng viên từ sơ yếu lý lịch"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Phát hiện hư hỏng xe / Phát hiện bộ phận xe / Phát hiện thương hiệu xe"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "PoC bảo hiểm ô tô"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "PoC xử lý hình ảnh"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Trích xuất thông tin ứng viên từ sơ yếu lý lịch, tiết kiệm thời gian cho nhà tuyển dụng"
+            ]
+        }
+    ],
+    "slide_35": [
+        {
+            "id": 0,
+            "list_text": [
+                "Computer Vision",
+                "Computer Vision"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Virtual Camera",
+                "Có khả năng chuyển đổi tư thế của con người sang tư thế của nhân vật theo thời gian thực. Có thể áp dụng trong các cuộc gọi video họp trực tuyến."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "PoC xử lý hình ảnh"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Video demo chuyển đổi thành nhân vật anime"
+            ]
+        }
+    ],
+    "slide_36": [
+        {
+            "id": 0,
+            "list_text": [
+                "PoC xử lý âm thanh",
+                "Ví dụ PoC"
+            ]
+        }
+    ],
+    "slide_37": [
+        {
+            "id": 0,
+            "list_text": [
+                "Audio signal processing",
+                "Xử lý âm thanh"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Text to speech"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Hệ thống chuyển văn bản thành giọng nói do Sun* phát triển là một nền tảng tổng hợp giọng nói cho tiếng Việt. Hệ thống chuyển văn bản thành giọng nói chuyển đổi văn bản ngôn ngữ thông thường sang định dạng âm thanh (wav audio). Hệ thống này được xây dựng trên kiến trúc Deep Learning: WaveNet, Tacotron2 trên nền tảng PyTorch.",
+                "Tổng hợp giọng nói là một lĩnh vực tiềm năng được ứng dụng trong nhiều lĩnh vực như trung tâm cuộc gọi, nền tảng đọc sách trực tuyến, tạo video/clip."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Chuyển đổi giọng nói tiếng Nhật"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Voice Conversion là công nghệ chuyển đổi giọng nói của một người thành giọng nói của người khác mà không thay đổi thông tin ngôn ngữ, chỉ thay đổi âm thanh."
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Giọng nguồn của người A"
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Giọng gốc của người B"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Chuyển đổi sang giọng của người B"
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Mẫu thử (Nhấp vào biểu tượng âm thanh để nghe demo)"
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "Demo chuyển đổi giọng nói mà đội AI của Sun* đã nghiên cứu.",
+                "Các mẫu thử khác có tại đây",
+                ".",
+                "Hoặc video demo trường hợp ứng dụng trong công cụ chuyển đổi thành nhân vật anime có tại ",
+                "đây",
+                "."
+            ]
+        }
+    ],
+    "slide_38": [
+        {
+            "id": 0,
+            "list_text": [
+                "Audio signal processing",
+                "Xử lý âm thanh"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Tách giọng ca sĩ"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Công nghệ tách giọng hát và nhạc cụ từ nguồn âm thanh. Sử dụng mạng nơ-ron sâu làm mô hình tách."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Tìm kiếm nhạc tương tự"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Ghi âm một đoạn ngắn của bài nhạc từ micro của điện thoại thông minh, chuyển đổi thành dấu vân tay âm thanh. Bằng cách tham chiếu nó trong cơ sở dữ liệu dấu vân tay đã được lập chỉ mục, có thể tìm thấy metadata khớp."
+            ]
+        }
+    ],
+    "slide_39": [
+        {
+            "id": 0,
+            "list_text": [
+                "Audio signal processing",
+                "Xử lý âm thanh"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Talky Bird App"
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Ứng dụng di động hỗ trợ cải thiện phát âm trong việc học tiếng Nhật. AI sẽ phân tích phát âm của người học, cho điểm và đưa ra lời khuyên để cải thiện.",
+                "Ứng dụng học tập dành cho người dùng có trình độ từ N4 trở lên trong kỳ thi năng lực tiếng Nhật, với hai danh mục: 'Giao tiếp hàng ngày' và 'Giao tiếp tại nơi làm việc'. Đặc điểm nổi bật nhất là sử dụng công nghệ nhận diện giọng nói để đánh giá giọng nói của người dùng. Sau khi người dùng phát âm, ứng dụng sẽ phân tích và đánh giá ngữ điệu và nội dung hội thoại."
+            ]
+        }
+    ],
+    "slide_40": [
+        {
+            "id": 0,
+            "list_text": [
+                "Về đội ngũ R&D AI"
+            ]
+        }
+    ],
+    "slide_41": [
+        {
+            "id": 0,
+            "list_text": [
+                "Member Development",
+                "Về việc phát triển thành viên của đội ngũ R&D"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Các thành viên của đội nghiên cứu ứng dụng và đội nghiên cứu vận hành chủ yếu làm việc như AI Engineer, trong khi đội nghiên cứu cơ bản đảm nhiệm vai trò AI Researcher. AI Engineer có 5 cấp độ và AI Researcher có 4 cấp độ."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "1"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Mô tả tổng quan về các cấp độ",
+                "Đầu tiên, chúng tôi mô tả các đặc điểm và tổng quan về các cấp độ của mỗi loại công việc."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "2"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Xác định nội dung công việc và vai trò của từng đội",
+                "Trong mỗi đội, nội dung công việc và vai trò phù hợp với từng cấp độ sẽ được phân công cho các thành viên."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "3"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Định nghĩa yêu cầu chức năng",
+                "Sau khi xác định vai trò và nội dung công việc, các yêu cầu chức năng cần thiết sẽ được làm rõ. Điều này bao gồm kiến thức chung và kỹ năng cơ bản (giao tiếp, thuyết trình, tư duy logic, tư duy phản biện, v.v.) cho đến các kỹ năng chuyên môn và kỹ năng lãnh đạo."
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Hệ thống này giúp làm rõ cấu trúc của đội và vai trò của từng thành viên, nâng cao hiệu quả và năng suất của tổ chức."
+            ]
+        }
+    ],
+    "slide_42": [
+        {
+            "id": 0,
+            "list_text": [
+                "Roles and Collaboration",
+                "Vai trò và sự hợp tác của đội ngũ R&D AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Đội ngũ được tổ chức theo các giai đoạn ứng dụng AI, phát huy đặc điểm của từng đội để thúc đẩy nghiên cứu cơ bản và phát triển, vận hành AI.",
+                "Tùy thuộc vào dự án, có thể tiến hành theo phương pháp Agile, và cần sự liên kết giữa các đội để tiến hành dự án."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Đội nghiên cứu cơ bản về AI",
+                "Fundamental Research"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Đội nghiên cứu ứng dụng về AI",
+                "Applied Research"
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Đội nghiên cứu vận hành về AI",
+                "Operation Research"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Sau khi giai đoạn PoC kết thúc, chúng tôi sẽ triển khai mô hình AI lên đám mây và tạo ra các đường ống và kiến trúc xung quanh AI ",
+                "đang tạo ra",
+                "Nhóm nghiên cứu vận hành sẽ thực hiện ",
+                "kỹ thuật dữ liệu cần được thực hiện trong giai đoạn thu thập dữ liệu",
+                "rong trường hợp này, chúng tôi sẽ tham gia dự án từ giai đoạn này và xây dựng cơ sở dữ liệu",
+                "để hỗ trợ",
+                "."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Trong giai đoạn xác định yêu cầu và phát triển mô hình AI",
+                ",",
+                "các thành viên của đội nghiên cứu ứng dụng sẽ tham gia dự án để phát triển mô hình AI."
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Khi có yêu cầu về ",
+                "các giải pháp mới hoặc cần khảo sát tài liệu",
+                ",",
+                "brainstorming về các giải pháp",
+                ",",
+                "đội nghiên cứu cơ bản sẽ tham gia hỗ trợ."
+            ]
+        }
+    ],
+    "slide_43": [
+        {
+            "id": 0,
+            "list_text": [
+                "Roles and Collaboration",
+                "Nỗ lực cải thiện độ chính xác của AI"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Nhờ có các đội ngũ nghiên cứu cơ bản, ứng dụng và vận hành, Sun* có thể thực hiện nỗ lực cải thiện độ chính xác của AI theo hệ thống độc đáo của mình."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "Thu thập"
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Theo dõi liên tục hoạt động của mô hình trong môi trường thực, thu thập dữ liệu log về trạng thái, đầu vào, đầu ra và lỗi của mô hình."
+            ]
+        },
+        {
+            "id": 4,
+            "list_text": [
+                "Đánh giá"
+            ]
+        },
+        {
+            "id": 5,
+            "list_text": [
+                "Phân tích và đánh giá định kỳ hiệu quả của mô hình hiện tại."
+            ]
+        },
+        {
+            "id": 6,
+            "list_text": [
+                "Học tập"
+            ]
+        },
+        {
+            "id": 7,
+            "list_text": [
+                "Đo lường sự khác biệt của dữ liệu theo thời gian, lập kế hoạch bổ sung dữ liệu mới, tái đào tạo mô hình hoặc thử nghiệm các thuật toán mới để mô hình có thể thích ứng với dữ liệu mới và cải thiện liên tục."
+            ]
+        },
+        {
+            "id": 8,
+            "list_text": [
+                "Tự động hóa"
+            ]
+        },
+        {
+            "id": 9,
+            "list_text": [
+                "Xây dựng pipeline cho quá trình học tập và triển khai mô hình, tự động hóa quy trình xung quanh AI để triển khai mô hình mới một cách nhanh chóng và hiệu quả."
+            ]
+        },
+        {
+            "id": 10,
+            "list_text": [
+                "Hệ thống"
+            ]
+        },
+        {
+            "id": 11,
+            "list_text": [
+                "Điều chỉnh hệ thống, phân công thành viên của đội nghiên cứu cơ bản hoặc những người có chuyên môn sâu về lĩnh vực của dự án để xem xét các giải pháp mới."
+            ]
+        }
+    ],
+    "slide_44": [
+        {
+            "id": 0,
+            "list_text": [
+                "Security measures and management methods",
+                "Các biện pháp và phương pháp quản lý an ninh"
+            ]
+        },
+        {
+            "id": 1,
+            "list_text": [
+                "Nhờ có các đội ngũ nghiên cứu cơ bản, ứng dụng và vận hành, Sun* có thể thực hiện nỗ lực cải thiện độ chính xác của AI theo hệ thống độc đáo của mình."
+            ]
+        },
+        {
+            "id": 2,
+            "list_text": [
+                "ISO/IEC 27001:2013取得",
+                "Sun* Việt Nam sở hữu chứng nhận ISO/IEC 27001:2013 - tiêu chuẩn quốc tế về an ninh thông tin, và thực hiện các chính sách, quy trình, tiêu chuẩn và biện pháp an ninh trên toàn công ty để giảm thiểu rủi ro an ninh. Toàn bộ nhân viên đều bắt buộc phải tham gia đào tạo về kiến thức và biện pháp an ninh theo tiêu chuẩn này."
+            ]
+        },
+        {
+            "id": 3,
+            "list_text": [
+                "Chính sách an ninh",
+                "Đội AI tuân thủ các quy định của công ty và chú ý đặc biệt đến các điểm sau:",
+                "Chỉ thu thập dữ liệu cần thiết",
+                "Không tải xuống dữ liệu cục bộ khi xử lý và huấn luyện mô hình trên đám mây",
+                "Không chia sẻ dữ liệu của khách hàng ngay cả với các thành viên trong cùng đội AI",
+                "Sao lưu định kỳ dữ liệu lưu trữ trên máy chủ",
+                "Dọn dẹp dữ liệu định kỳ trên máy của các thành viên"
+            ]
+        }
+    ],
+    "slide_45": [
+        {
+            "id": 0,
+            "list_text": [
+                "Make awesome AI things",
+                "that",
+                "matter",
+                "."
+            ]
+        }
+    ]
+}

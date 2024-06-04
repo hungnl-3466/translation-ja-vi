@@ -1,0 +1,2961 @@
+
+{
+    "slide_0": [
+        {
+            "id": 0,
+            "bbox": [
+                497,
+                806,
+                924,
+                524
+            ],
+            "text": "2024\n/4"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                127,
+                47,
+                693,
+                175
+            ],
+            "text": "Đề xuất phát triển sản phẩm sử dụng AI"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                170,
+                47,
+                913,
+                367
+            ],
+            "text": "Phát triển AI"
+        }
+    ],
+    "slide_1": [
+        {
+            "id": 0,
+            "bbox": [
+                98,
+                518,
+                915,
+                375
+            ],
+            "text": "Nhóm nghiên cứu AI của Sun* là một tập hợp các chuyên gia nhằm khám phá và phát triển các công nghệ AI tiên tiến. Nhóm của chúng tôi đang tiến hành nghiên cứu và thử nghiệm trong các lĩnh vực như Deep Learning, Machine Learning, Natural Language Processing, và Image Recognition. Nhóm bao gồm các chuyên gia thành thạo trong các lĩnh vực như Khoa học máy tính, Toán ứng dụng, Kỹ thuật điện tử, và Lý thuyết thông tin. Thông qua giải quyết các vấn đề chung, chúng tôi hướng đến vượt qua các thách thức hiện tại trong lĩnh vực AI, áp dụng các công nghệ AI vào thực tiễn và đóng góp cho lợi ích của toàn xã hội."
+        },
+        {
+            "id": 1,
+            "bbox": [
+                118,
+                411,
+                893,
+                258
+            ],
+            "text": "Nhóm nghiên cứu AI của Sun* là một nhóm hướng đến khám phá và phát triển các công nghệ AI tiên tiến, đang tiến hành nghiên cứu và thử nghiệm trong các lĩnh vực như Deep Learning, Machine Learning, Natural Language Processing, và Image Recognition. Nhóm bao gồm các chuyên gia thành thạo trong các lĩnh vực như Khoa học máy tính, Toán ứng dụng, Kỹ thuật điện tử, và Lý thuyết thông tin, và đang theo đuổi việc áp dụng các công nghệ AI vào thực tiễn và đóng góp cho lợi ích của toàn xã hội."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Chúng tôi là ai\nMột tập hợp các chuyên gia nhằm khám phá và phát triển các công nghệ AI"
+        }
+    ],
+    "slide_2": [
+        {
+            "id": 0,
+            "bbox": [
+                253,
+                214,
+                395,
+                301
+            ],
+            "text": "Tran Duc Thang"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                231,
+                214,
+                395,
+                264
+            ],
+            "text": "R&D Unit Manager"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                318,
+                214,
+                438,
+                504
+            ],
+            "text": "Học tại đại học Keio với học bổng quốc gia, sau khi tốt nghiệp năm 2013, trở về nước và tham gia Sun*. Đã kinh qua nhiều vị trí như kỹ sư, tech lead, BrSE, PM. Tham gia thành lập bộ phận R&D năm 2019 và hiện là manager của bộ phận này. Đang nghiên cứu và phát triển các công nghệ tiên tiến như AI, Cyber Security, Blockchain, DevOps, SRE."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                253,
+                509,
+                690,
+                301
+            ],
+            "text": "Pham Van Toan"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                231,
+                509,
+                690,
+                264
+            ],
+            "text": "AI Research Specialist"
+        },
+        {
+            "id": 5,
+            "bbox": [
+                318,
+                509,
+                733,
+                504
+            ],
+            "text": "Gia nhập công ty năm 2016, tham gia xây dựng nhóm nghiên cứu AI. Đã tham gia nhiều dự án lớn nhỏ tại Sun* và có kinh nghiệm phong phú về sản phẩm AI. Đã viết hơn 30 bài báo khoa học trong các lĩnh vực như Computer Vision, Natural Language Processing, Signal Processing, Recommendation Systems và trình bày kết quả nghiên cứu của nhóm AI tại nhiều hội nghị quốc tế."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                6,
+                24,
+                506,
+                29
+            ],
+            "text": "Hồ sơ nhóm nghiên cứu AI Sun*"
+        }
+    ],
+    "slide_3": [
+        {
+            "id": 0,
+            "bbox": [
+                355,
+                41,
+                927,
+                470
+            ],
+            "text": "Hỗ trợ nhiều lĩnh vực như Chatbot và Natural Language Processing (NLP), xử lý tín hiệu như âm thanh, EEG, Computer Vision, Recommendation Systems, Data Science, Edge AI."
+        },
+        {
+            "id": 1,
+            "bbox": [
+                375,
+                105,
+                448,
+                443
+            ],
+            "text": "Hỗ trợ rộng rãi trong lĩnh vực AI"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                220,
+                41,
+                927,
+                335
+            ],
+            "text": "Chúng tôi đã nghiên cứu AI hơn 5 năm và phát triển các sản phẩm AI cho công ty và khách hàng."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                258,
+                105,
+                448,
+                300
+            ],
+            "text": "Kinh nghiệm phong phú"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Tại sao chọn chúng tôi\nThế mạnh của nhóm AI Sun*"
+        },
+        {
+            "id": 5,
+            "bbox": [
+                89,
+                41,
+                927,
+                204
+            ],
+            "text": "Chúng tôi đã nộp nhiều bài báo tại các hội nghị quốc tế về AI và đạt nhiều thành tích tốt trong các cuộc thi AI trong và ngoài nước. Hiện có 24 kỹ sư AI (tính đến tháng 5 năm 2023)."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                109,
+                105,
+                448,
+                177
+            ],
+            "text": "Đội ngũ nghiên cứu và kỹ sư AI hàng đầu"
+        },
+        {
+            "id": 7,
+            "bbox": [
+                129,
+                60,
+                92,
+                161
+            ],
+            "text": "1"
+        },
+        {
+            "id": 8,
+            "bbox": [
+                261,
+                60,
+                92,
+                293
+            ],
+            "text": "2"
+        },
+        {
+            "id": 9,
+            "bbox": [
+                391,
+                60,
+                92,
+                423
+            ],
+            "text": "3"
+        }
+    ],
+    "slide_4": [
+        {
+            "id": 0,
+            "bbox": [
+                13,
+                32,
+                413,
+                61
+            ],
+            "text": "Thành tích nghiên cứu của nhóm AI"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                81,
+                617,
+                931,
+                218
+            ],
+            "text": "Đã giành nhiều giải thưởng trong các cuộc thi AI trong và ngoài nước. Có hơn 40 bài báo được công bố và chấp nhận tại các hội nghị quốc tế."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                238,
+                621,
+                935,
+                275
+            ],
+            "text": "https://research.sun-asterisk.com/team-ai"
+        }
+    ],
+    "slide_5": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Lợi ích của việc áp dụng AI"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                138,
+                67,
+                321,
+                287
+            ],
+            "text": "Tăng hiệu quả và tự động hóa\nTiết kiệm thời gian và công sức bằng cách tự động hóa các tác vụ lặp lại"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                138,
+                357,
+                611,
+                287
+            ],
+            "text": "Cải thiện độ chính xác\nGiảm thiểu lỗi của con người và nâng cao độ chính xác trong xử lý dữ liệu"
+        },
+        {
+            "id": 3,
+            "bbox": [
+                138,
+                647,
+                901,
+                287
+            ],
+            "text": "Dự đoán xu hướng\nPhát hiện các mẫu từ dữ liệu và dự đoán xu hướng trong tương lai"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                321,
+                67,
+                321,
+                470
+            ],
+            "text": "Cá nhân hóa\nCung cấp trải nghiệm cá nhân hóa dựa trên hành vi của từng khách hàng"
+        },
+        {
+            "id": 5,
+            "bbox": [
+                321,
+                357,
+                611,
+                470
+            ],
+            "text": "Hỗ trợ quyết định\nHỗ trợ đưa ra quyết định thông minh dựa trên các thông tin từ dữ liệu"
+        },
+        {
+            "id": 6,
+            "bbox": [
+                321,
+                647,
+                901,
+                470
+            ],
+            "text": "Khám phá cơ hội kinh doanh mới\nTìm ra các thị trường mới tiềm năng có thể bị bỏ lỡ bởi các phương pháp tiếp cận truyền thống"
+        },
+        {
+            "id": 7,
+            "bbox": [
+                84,
+                27,
+                906,
+                119
+            ],
+            "text": "Việc tích hợp AI vào phát triển sản phẩm có thể cải thiện chất lượng, tăng năng suất và thúc đẩy sự phát triển của doanh nghiệp"
+        },
+        {
+            "id": 8,
+            "bbox": [
+                129,
+                60,
+                92,
+                161
+            ],
+            "text": "1"
+        },
+        {
+            "id": 9,
+            "bbox": [
+                128,
+                340,
+                372,
+                160
+            ],
+            "text": "2"
+        },
+        {
+            "id": 10,
+            "bbox": [
+                128,
+                633,
+                665,
+                160
+            ],
+            "text": "3"
+        },
+        {
+            "id": 11,
+            "bbox": [
+                307,
+                53,
+                85,
+                339
+            ],
+            "text": "4"
+        },
+        {
+            "id": 12,
+            "bbox": [
+                306,
+                333,
+                365,
+                338
+            ],
+            "text": "5"
+        },
+        {
+            "id": 13,
+            "bbox": [
+                306,
+                626,
+                658,
+                338
+            ],
+            "text": "6"
+        }
+    ],
+    "slide_6": [
+        {
+            "id": 0,
+            "bbox": [
+                243,
+                273,
+                685,
+                296
+            ],
+            "text": "Dịch vụ"
+        }
+    ],
+    "slide_7": [
+        {
+            "id": 0,
+            "bbox": [
+                295,
+                41,
+                927,
+                466
+            ],
+            "text": "Hiện thực hóa ý tưởng\nChuyển đổi ý tưởng thành sản phẩm\nHỗ trợ nhiều lĩnh vực AI"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Dịch vụ AI của chúng tôi\nAI\nvề dịch vụ"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                100,
+                41,
+                927,
+                271
+            ],
+            "text": "Nâng cao doanh nghiệp\nNghiên cứu kinh doanh\nÝ tưởng tích hợp công nghệ AI\nĐề xuất cho việc chuẩn bị áp dụng AI\nPhân tích dữ liệu"
+        },
+        {
+            "id": 3,
+            "bbox": [
+                167,
+                124,
+                467,
+                213
+            ],
+            "text": "AI/Data Consulting"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                174,
+                78,
+                110,
+                206
+            ],
+            "text": "1"
+        },
+        {
+            "id": 5,
+            "bbox": [
+                360,
+                78,
+                110,
+                392
+            ],
+            "text": "2"
+        },
+        {
+            "id": 6,
+            "bbox": [
+                353,
+                131,
+                474,
+                399
+            ],
+            "text": "AI Development"
+        }
+    ],
+    "slide_8": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Quy trình tư vấn AI\nQuy trình tư vấn AI"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                94,
+                34,
+                191,
+                156
+            ],
+            "text": "1"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                94,
+                191,
+                348,
+                156
+            ],
+            "text": "Hiểu biết về kinh doanh\nThu thập thông tin nền tảng về dự án như domain, mục tiêu kinh doanh, stakeholder, yêu cầu dự án, sản phẩm và lịch sử của nó."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                156,
+                34,
+                191,
+                218
+            ],
+            "text": "2"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                156,
+                191,
+                348,
+                218
+            ],
+            "text": "Thu thập insight\nPhát hiện các vấn đề hiện tại trong kinh doanh/hệ thống và tìm kiếm các giải pháp có thể được giải quyết bằng công nghệ AI."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                219,
+                34,
+                191,
+                281
+            ],
+            "text": "3"
+        },
+        {
+            "id": 6,
+            "bbox": [
+                219,
+                191,
+                348,
+                281
+            ],
+            "text": "Đánh giá khả năng và chất lượng của dữ liệu\nĐiều tra nguồn dữ liệu, số lượng dữ liệu, chất lượng dữ liệu, và sự liên quan của dữ liệu."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                282,
+                34,
+                191,
+                344
+            ],
+            "text": "4"
+        },
+        {
+            "id": 8,
+            "bbox": [
+                282,
+                191,
+                348,
+                344
+            ],
+            "text": "Tạo ý tưởng\nTiến hành brainstorming để tạo ra tất cả các ý tưởng có thể áp dụng AI."
+        },
+        {
+            "id": 9,
+            "bbox": [
+                345,
+                34,
+                191,
+                407
+            ],
+            "text": "5"
+        },
+        {
+            "id": 10,
+            "bbox": [
+                345,
+                191,
+                348,
+                407
+            ],
+            "text": "Lựa chọn những gì sẽ phát triển\nƯu tiên các ý tưởng dựa trên tính khả thi, effort đầu tư và giá trị tổng thể, chọn lựa tùy chọn phù hợp nhất."
+        },
+        {
+            "id": 11,
+            "bbox": [
+                94,
+                496,
+                653,
+                156
+            ],
+            "text": "6"
+        },
+        {
+            "id": 12,
+            "bbox": [
+                94,
+                653,
+                810,
+                156
+            ],
+            "text": "Dự đoán giá trị gia tăng từ việc triển khai AI\nDự đoán giá trị kinh doanh sẽ được thêm vào khi triển khai các tùy chọn đã chọn."
+        },
+        {
+            "id": 13,
+            "bbox": [
+                156,
+                496,
+                653,
+                218
+            ],
+            "text": "7"
+        },
+        {
+            "id": 14,
+            "bbox": [
+                156,
+                653,
+                810,
+                218
+            ],
+            "text": "Đề xuất\nTóm tắt kết quả nghiên cứu và đề xuất cho khách hàng."
+        },
+        {
+            "id": 15,
+            "bbox": [
+                219,
+                496,
+                653,
+                281
+            ],
+            "text": "8"
+        },
+        {
+            "id": 16,
+            "bbox": [
+                219,
+                653,
+                810,
+                281
+            ],
+            "text": "Triển khai và triển khai\nBắt đầu phát triển các tính năng AI."
+        },
+        {
+            "id": 17,
+            "bbox": [
+                282,
+                496,
+                653,
+                344
+            ],
+            "text": "9"
+        },
+        {
+            "id": 18,
+            "bbox": [
+                282,
+                653,
+                810,
+                344
+            ],
+            "text": "Đánh giá kết quả\nDuy trì và đánh giá kết quả thực tế sau khi áp dụng AI."
+        },
+        {
+            "id": 19,
+            "bbox": [
+                345,
+                496,
+                653,
+                407
+            ],
+            "text": "10"
+        },
+        {
+            "id": 20,
+            "bbox": [
+                345,
+                653,
+                810,
+                407
+            ],
+            "text": "Hỗ trợ liên tục\nCung cấp hỗ trợ liên tục để các stakeholder kinh doanh có thể duy trì và quản lý hệ thống AI."
+        }
+    ],
+    "slide_9": [
+        {
+            "id": 0,
+            "bbox": [
+                243,
+                273,
+                685,
+                296
+            ],
+            "text": "Năng lực"
+        }
+    ],
+    "slide_10": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Natural language processing\nNatural language processing"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                115,
+                34,
+                191,
+                177
+            ],
+            "text": "1"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                115,
+                191,
+                348,
+                177
+            ],
+            "text": "Phát hiện bất thường: Phát hiện spam\nPhát hiện xem một văn bản có phải là spam, không liên quan hoặc bình thường."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                177,
+                34,
+                191,
+                239
+            ],
+            "text": "2"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                177,
+                191,
+                348,
+                239
+            ],
+            "text": "Phân loại văn bản\nPhát hiện xem văn bản đã cho thuộc một (hoặc nhiều) danh mục đã chỉ định."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                240,
+                34,
+                191,
+                302
+            ],
+            "text": "3"
+        },
+        {
+            "id": 6,
+            "bbox": [
+                240,
+                191,
+                348,
+                302
+            ],
+            "text": "Phát hiện ngôn ngữ\nPhát hiện ngôn ngữ hoặc ngôn ngữ lập trình của văn bản hoặc mã (có thể là ngôn ngữ con người hoặc ngôn ngữ lập trình)."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                303,
+                34,
+                191,
+                365
+            ],
+            "text": "4"
+        },
+        {
+            "id": 8,
+            "bbox": [
+                303,
+                191,
+                348,
+                365
+            ],
+            "text": "Phát hiện phát ngôn thù hận tự động\nPhát hiện xem văn bản đã cho có chứa phát ngôn tấn công không."
+        },
+        {
+            "id": 9,
+            "bbox": [
+                366,
+                34,
+                191,
+                428
+            ],
+            "text": "5"
+        },
+        {
+            "id": 10,
+            "bbox": [
+                366,
+                191,
+                348,
+                428
+            ],
+            "text": "Phát hiện đạo văn\nPhát hiện xem văn bản có bị đạo văn/toàn bộ hoặc một phần lớn bị sao chép từ nơi khác."
+        },
+        {
+            "id": 11,
+            "bbox": [
+                115,
+                496,
+                653,
+                193
+            ],
+            "text": "6"
+        },
+        {
+            "id": 12,
+            "bbox": [
+                115,
+                653,
+                810,
+                193
+            ],
+            "text": "Topic modeling/Trích xuất từ khóa\nXuất ra topic hoặc từ khóa khi cho một chuỗi văn bản hoặc tài liệu."
+        },
+        {
+            "id": 13,
+            "bbox": [
+                193,
+                496,
+                653,
+                271
+            ],
+            "text": "7"
+        },
+        {
+            "id": 14,
+            "bbox": [
+                193,
+                653,
+                810,
+                271
+            ],
+            "text": "Trả lời câu hỏi\nXuất ra câu trả lời chính xác khi được đặt câu hỏi."
+        },
+        {
+            "id": 15,
+            "bbox": [
+                272,
+                496,
+                653,
+                350
+            ],
+            "text": "8"
+        },
+        {
+            "id": 16,
+            "bbox": [
+                272,
+                653,
+                810,
+                350
+            ],
+            "text": "Trích xuất thực thể\nTrích xuất các thực thể được đề cập từ đầu vào văn bản."
+        },
+        {
+            "id": 17,
+            "bbox": [
+                350,
+                496,
+                653,
+                428
+            ],
+            "text": "9"
+        },
+        {
+            "id": 18,
+            "bbox": [
+                350,
+                653,
+                810,
+                428
+            ],
+            "text": "Chatbot\nHiểu yêu cầu/nhu cầu của người chat từ văn bản."
+        },
+        {
+            "id": 19,
+            "bbox": [
+                75,
+                27,
+                906,
+                110
+            ],
+            "text": "Chúng tôi có thành tựu trong các lĩnh vực Natural language processing dưới đây"
+        }
+    ],
+    "slide_11": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Natural language processing\nVí dụ về triển khai xử lý ngôn ngữ tự nhiên: VIBLO"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                157,
+                606,
+                920,
+                245
+            ],
+            "text": "Phát hiện spam\nPhát hiện ngôn ngữ lập trình\nPhát hiện đạo văn"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                448,
+                154,
+                468,
+                485
+            ],
+            "text": "https://viblo.asia/"
+        },
+        {
+            "id": 3,
+            "bbox": [
+                309,
+                597,
+                920,
+                427
+            ],
+            "text": "Viblo.asia là nền tảng cộng đồng cho kỹ sư được phát triển và vận hành bởi Sun*\nTrung bình hàng tháng MAU 70,000+\nSố lượng truy cập hàng tháng 300,000+"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                111,
+                601,
+                915,
+                149
+            ],
+            "text": "Natural language processing đã được áp dụng"
+        }
+    ],
+    "slide_12": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Natural language processing\nCác ngành dự kiến ứng dụng xử lý ngôn ngữ tự nhiên"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                75,
+                27,
+                906,
+                110
+            ],
+            "text": "Có hiệu quả đối với các doanh nghiệp xử lý lượng lớn dữ liệu văn bản và tương tác với khách hàng."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                138,
+                67,
+                321,
+                287
+            ],
+            "text": "Y tế\nNatural language processing (NLP) giúp phân tích hồ sơ bệnh nhân, hỗ trợ bác sĩ chẩn đoán và theo dõi tình trạng bệnh."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                314,
+                67,
+                321,
+                463
+            ],
+            "text": "E-commerce\nNLP được sử dụng để phân tích đánh giá và phản hồi của khách hàng, tối ưu hóa đề xuất sản phẩm và cá nhân hóa trải nghiệm mua sắm."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                138,
+                357,
+                611,
+                287
+            ],
+            "text": "Dịch vụ khách hàng\nNLP được sử dụng trong phát triển chatbot và trợ lý ảo, giúp khách hàng tìm câu trả lời để giải quyết vấn đề."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                314,
+                357,
+                611,
+                463
+            ],
+            "text": "Luật\nNLP hỗ trợ phân tích các tài liệu pháp lý và hợp đồng, giúp luật sư xác định thông tin liên quan và đưa ra quyết định dựa trên đó."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                138,
+                647,
+                901,
+                287
+            ],
+            "text": "Tài chính\nNLP được sử dụng để phân tích tin tức và dữ liệu tài chính, hỗ trợ các nhà đầu tư đưa ra quyết định đầu tư chính xác hơn."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                314,
+                647,
+                901,
+                463
+            ],
+            "text": "Marketing\nNLP được sử dụng để phân tích các cuộc trò chuyện trên mạng xã hội và phản hồi của khách hàng, giúp doanh nghiệp hiểu rõ khách hàng và thực hiện các chiến dịch marketing hướng mục tiêu."
+        }
+    ],
+    "slide_13": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Signal processing (Audio, EEG ...)\nXử lý tín hiệu như âm thanh và EEG"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                111,
+                34,
+                191,
+                163
+            ],
+            "text": "1"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                111,
+                191,
+                348,
+                163
+            ],
+            "text": "Tìm kiếm âm nhạc\nPhát hiện tên bài hát từ đoạn âm thanh và tìm các bài hát tương tự dựa trên âm thanh."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                163,
+                34,
+                191,
+                215
+            ],
+            "text": "2"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                163,
+                191,
+                348,
+                215
+            ],
+            "text": "Phân loại âm thanh\nPhát hiện xem âm thanh đã cho thuộc một (hoặc nhiều) danh mục đã chỉ định."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                215,
+                34,
+                191,
+                267
+            ],
+            "text": "3"
+        },
+        {
+            "id": 6,
+            "bbox": [
+                215,
+                191,
+                348,
+                267
+            ],
+            "text": "Chuyển văn bản thành giọng nói (text-to-speech)\nTạo giọng nói giống con người từ bản ghi."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                268,
+                34,
+                191,
+                320
+            ],
+            "text": "4"
+        },
+        {
+            "id": 8,
+            "bbox": [
+                268,
+                191,
+                348,
+                320
+            ],
+            "text": "Phát âm alignment, nhận dạng giọng nói\nHỗ trợ cải thiện phát âm của người học bằng cách so sánh phát âm của họ với bản ghi chính xác, phát hiện từ phát âm sai và cung cấp phản hồi cho người học."
+        },
+        {
+            "id": 9,
+            "bbox": [
+                320,
+                34,
+                191,
+                372
+            ],
+            "text": "5"
+        },
+        {
+            "id": 10,
+            "bbox": [
+                320,
+                191,
+                348,
+                372
+            ],
+            "text": "Nhận dạng cảm xúc từ giọng nói\nPhát hiện cảm xúc của người nói từ âm thanh."
+        },
+        {
+            "id": 11,
+            "bbox": [
+                372,
+                34,
+                191,
+                424
+            ],
+            "text": "6"
+        },
+        {
+            "id": 12,
+            "bbox": [
+                372,
+                191,
+                348,
+                424
+            ],
+            "text": "Nhận dạng cảm xúc từ EEG\nThu thập thông tin sinh học (EEG) từ người dùng, phân tích bằng AI algorithm và suy luận cảm xúc của người dùng dựa trên kết quả phân tích."
+        },
+        {
+            "id": 13,
+            "bbox": [
+                75,
+                27,
+                469,
+                110
+            ],
+            "text": "Chúng tôi có thành tựu trong các lĩnh vực Signal processing dưới đây"
+        },
+        {
+            "id": 14,
+            "bbox": [
+                155,
+                512,
+                948,
+                339
+            ],
+            "text": "Đọc văn bản tiếng Việt thành giọng nói (text-to-speech)\nChuyển đổi giọng nói tiếng Nhật\nTách vocal của ca sĩ\nTìm kiếm nhạc tương tự\nĐánh giá phát âm tiếng Nhật (ứng dụng Talky Bird)"
+        },
+        {
+            "id": 15,
+            "bbox": [
+                107,
+                516,
+                830,
+                145
+            ],
+            "text": "Các ví dụ về PoC đã thực hiện"
+        }
+    ],
+    "slide_14": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Signal processing (Audio, EEG ...)\nCác ngành có thể ứng dụng xử lý tín hiệu (Âm thanh, EEG...)"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                75,
+                27,
+                906,
+                110
+            ],
+            "text": "Hiệu quả đối với các công ty xử lý dữ liệu âm thanh/tín hiệu và phát triển các sản phẩm chứa âm thanh/tín hiệu."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                138,
+                67,
+                321,
+                287
+            ],
+            "text": "Giải trí\nXử lý âm thanh nâng cao chất lượng âm thanh và trải nghiệm nghe, rút ngắn thời gian sản xuất bằng giọng nói tự động, phát hiện nội dung bảo vệ bản quyền."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                314,
+                207,
+                461,
+                463
+            ],
+            "text": "Giáo dục\nXử lý âm thanh hỗ trợ ứng dụng học ngoại ngữ, cải thiện phát âm và luyện tập hội thoại."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                138,
+                357,
+                611,
+                287
+            ],
+            "text": "Chăm sóc sức khỏe\nTrong ngành y, xử lý âm thanh nâng cao chất lượng hình ảnh y tế và kiểm tra chẩn đoán, tăng độ chính xác và độ tin cậy bằng các phương pháp như lọc, nén và làm nổi bật tín hiệu."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                314,
+                497,
+                751,
+                463
+            ],
+            "text": "An ninh\nXử lý âm thanh giúp hệ thống an ninh giám sát và phát hiện mối đe dọa, nhận diện và phân tích âm thanh."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                138,
+                647,
+                901,
+                287
+            ],
+            "text": "Truyền thông/Dịch vụ khách hàng\nXử lý âm thanh cải thiện chất lượng âm thanh trong cuộc gọi điện thoại và video, loại bỏ tiếng ồn nền, chuyển đổi giọng nói."
+        }
+    ],
+    "slide_15": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Computer Vision\nComputer Vision"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                111,
+                34,
+                191,
+                163
+            ],
+            "text": "1"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                111,
+                191,
+                348,
+                163
+            ],
+            "text": "Tìm kiếm ảnh ngược\nTìm nguồn gốc của ảnh hoặc tìm kiếm các ảnh liên quan từ ảnh đó."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                163,
+                34,
+                191,
+                215
+            ],
+            "text": "2"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                163,
+                191,
+                348,
+                215
+            ],
+            "text": "Nhận dạng quần áo\nPhát hiện và phân loại các mặt hàng quần áo từ hình ảnh."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                215,
+                34,
+                191,
+                267
+            ],
+            "text": "3"
+        },
+        {
+            "id": 6,
+            "bbox": [
+                215,
+                191,
+                348,
+                267
+            ],
+            "text": "Chấm điểm tự động\nChuyển đáp án từ bản scan của bài thi và chấm điểm."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                268,
+                34,
+                191,
+                320
+            ],
+            "text": "4"
+        },
+        {
+            "id": 8,
+            "bbox": [
+                268,
+                191,
+                348,
+                320
+            ],
+            "text": "OCR\nTrích xuất văn bản từ tài liệu số."
+        },
+        {
+            "id": 9,
+            "bbox": [
+                320,
+                34,
+                191,
+                372
+            ],
+            "text": "5"
+        },
+        {
+            "id": 10,
+            "bbox": [
+                320,
+                191,
+                348,
+                372
+            ],
+            "text": "Steganography ảnh\nKỹ thuật giấu ảnh trong ảnh, âm thanh trong âm thanh, hoặc âm thanh trong ảnh."
+        },
+        {
+            "id": 11,
+            "bbox": [
+                372,
+                34,
+                191,
+                424
+            ],
+            "text": "6"
+        },
+        {
+            "id": 12,
+            "bbox": [
+                372,
+                191,
+                348,
+                424
+            ],
+            "text": "Trích xuất video trang điểm\nHệ thống theo dõi chuyển động của cọ trang điểm và tạo bản đồ nhiệt về mật độ và tần suất của trang điểm trên khuôn mặt."
+        },
+        {
+            "id": 13,
+            "bbox": [
+                75,
+                27,
+                469,
+                110
+            ],
+            "text": "Chúng tôi có thành tựu trong các lĩnh vực Computer Vision dưới đây"
+        },
+        {
+            "id": 14,
+            "bbox": [
+                111,
+                494,
+                651,
+                173
+            ],
+            "text": "7"
+        },
+        {
+            "id": 15,
+            "bbox": [
+                111,
+                651,
+                808,
+                173
+            ],
+            "text": "Phân loại ảnh\nPhát hiện xem ảnh đã cho thuộc một (hoặc nhiều) danh mục đã chỉ định."
+        },
+        {
+            "id": 16,
+            "bbox": [
+                173,
+                494,
+                651,
+                235
+            ],
+            "text": "8"
+        },
+        {
+            "id": 17,
+            "bbox": [
+                173,
+                651,
+                808,
+                235
+            ],
+            "text": "Phát hiện vật thể\nPhát hiện tất cả các vật thể và vị trí của chúng từ ảnh hoặc video."
+        },
+        {
+            "id": 18,
+            "bbox": [
+                236,
+                494,
+                651,
+                298
+            ],
+            "text": "9"
+        },
+        {
+            "id": 19,
+            "bbox": [
+                236,
+                651,
+                808,
+                298
+            ],
+            "text": "Phân đoạn ảnh\nKhi nhận được ảnh, xuất ra các vùng con ở mức độ pixel mong muốn."
+        },
+        {
+            "id": 20,
+            "bbox": [
+                299,
+                494,
+                651,
+                361
+            ],
+            "text": "10"
+        },
+        {
+            "id": 21,
+            "bbox": [
+                299,
+                651,
+                808,
+                361
+            ],
+            "text": "Nhận dạng/phát hiện khuôn mặt\nKhi nhận được ảnh hoặc video có khuôn mặt, phát hiện người tương ứng."
+        },
+        {
+            "id": 22,
+            "bbox": [
+                362,
+                494,
+                651,
+                424
+            ],
+            "text": "11"
+        },
+        {
+            "id": 23,
+            "bbox": [
+                362,
+                651,
+                808,
+                424
+            ],
+            "text": "Tô màu ảnh\nKhi nhận được ảnh xám hoặc ảnh đen trắng, xuất ra ảnh với màu gốc hoặc đã điều chỉnh màu."
+        }
+    ],
+    "slide_16": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Computer Vision\nComputer Vision"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                155,
+                66,
+                706,
+                339
+            ],
+            "text": "Nhận dạng ký tự quang học cho hóa đơn tiếng Nhật\nCông cụ theo dõi chuyển động người trong video call để điều khiển nhân vật 3D\nBiến dạng ảnh 3D đầu người\nPhát hiện và ước tính chi phí sửa chữa thiệt hại xe\nCông cụ chuyển đổi ảnh công thức toán học sang LaTeX\nTìm kiếm trang phục tương tự"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                102,
+                66,
+                380,
+                140
+            ],
+            "text": "Ví dụ phát triển và thực hiện PoC"
+        }
+    ],
+    "slide_17": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Computer Vision\nCác ngành có thể ứng dụng thị giác máy tính"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                75,
+                27,
+                906,
+                110
+            ],
+            "text": "Có thể sử dụng trong nhiều ngành và mang lại lợi ích lớn cho các công ty cần phân tích hình ảnh và video."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                138,
+                67,
+                321,
+                287
+            ],
+            "text": "Nông nghiệp\nGiám sát và phân tích cây trồng, phát hiện bệnh, dự đoán sản lượng."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                314,
+                67,
+                321,
+                463
+            ],
+            "text": "Giải trí\nTạo nội dung như hiệu ứng đặc biệt trong phim và video game."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                138,
+                357,
+                611,
+                287
+            ],
+            "text": "Thể thao\nPhân tích hiệu suất, theo dõi vận động viên, hỗ trợ quyết định trọng tài."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                314,
+                357,
+                611,
+                463
+            ],
+            "text": "Giáo dục\nHỗ trợ học tập cá nhân, đánh giá, tăng cường tham gia của học sinh."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                138,
+                647,
+                901,
+                287
+            ],
+            "text": "Xây dựng\nGiám sát tiến độ, kiểm soát chất lượng, tuân thủ an toàn."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                314,
+                652,
+                906,
+                463
+            ],
+            "text": "Giao thông\nPhân tích giao thông, phát hiện người đi bộ, giám sát cơ sở hạ tầng."
+        }
+    ],
+    "slide_18": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Computer Vision\nCác ngành có thể ứng dụng thị giác máy tính"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                75,
+                27,
+                906,
+                110
+            ],
+            "text": "Có thể sử dụng trong nhiều ngành và mang lại lợi ích lớn cho các công ty cần phân tích hình ảnh và video."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                138,
+                67,
+                321,
+                287
+            ],
+            "text": "Du lịch\nCung cấp thông tin du lịch, tạo trải nghiệm thực tế ảo tăng cường, nhận diện danh lam thắng cảnh."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                314,
+                67,
+                321,
+                463
+            ],
+            "text": "Chăm sóc sức khỏe\nPhân tích hình ảnh y tế, phát hiện bệnh, phát triển thuốc."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                138,
+                357,
+                611,
+                287
+            ],
+            "text": "Giám sát môi trường\nGiám sát và phân tích thay đổi thời tiết, hành vi động vật hoang dã, mức độ ô nhiễm."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                314,
+                357,
+                611,
+                463
+            ],
+            "text": "Sản xuất\nQuản lý chất lượng, phát hiện lỗi, bảo trì dự phòng."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                138,
+                647,
+                901,
+                287
+            ],
+            "text": "Bán lẻ\nPhân tích hành vi và sở thích của khách hàng, tối ưu hóa bố trí cửa hàng, chiến lược tiếp thị."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                314,
+                652,
+                906,
+                463
+            ],
+            "text": "An ninh\nGiám sát, nhận diện khuôn mặt, phát hiện mối đe dọa."
+        }
+    ],
+    "slide_19": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Recommendation System\nRecommendation System"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                183,
+                66,
+                706,
+                309
+            ],
+            "text": "Hệ thống gợi ý bài báo khoa học\nHệ thống gợi ý rượu vang\nHệ thống gợi ý bài hát\nHệ thống phân tích và gợi ý hành vi lái xe"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                130,
+                66,
+                380,
+                168
+            ],
+            "text": "Ví dụ phát triển và thực hiện PoC"
+        },
+        {
+            "id": 3,
+            "bbox": [
+                75,
+                27,
+                841,
+                110
+            ],
+            "text": "Content-based filtering, Collaborative filtering, Hybrid recommendation system, đề xuất cho người dùng bằng nhiều phương pháp khác nhau"
+        }
+    ],
+    "slide_20": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Recommendation System\nVí dụ các ngành có thể ứng dụng hệ thống gợi ý"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                75,
+                27,
+                906,
+                110
+            ],
+            "text": "Các doanh nghiệp xử lý lượng dữ liệu lớn và có thể cá nhân hóa sản phẩm hoặc dịch vụ sẽ hưởng lợi từ việc triển khai hệ thống gợi ý."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                133,
+                36,
+                241,
+                282
+            ],
+            "text": "Doanh nghiệp e-commerce\nTrên thị trường trực tuyến, hệ thống gợi ý được sử dụng để đề xuất sản phẩm dựa trên lịch sử duyệt web và mua hàng của khách hàng."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                133,
+                268,
+                473,
+                282
+            ],
+            "text": "Dịch vụ streaming\nHệ thống gợi ý sử dụng xu hướng xem và nghe của người dùng để đề xuất phim, chương trình truyền hình và âm nhạc."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                133,
+                499,
+                704,
+                282
+            ],
+            "text": "Nền tảng mạng xã hội\nHệ thống gợi ý được sử dụng để đề xuất kết nối mới, trang, bài đăng dựa trên hoạt động của người dùng."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                133,
+                731,
+                936,
+                282
+            ],
+            "text": "Đại lý du lịch trực tuyến\nHệ thống gợi ý được sử dụng để đề xuất khách sạn, chuyến bay, thuê nhà dựa trên lịch sử du lịch của người dùng."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                305,
+                34,
+                239,
+                454
+            ],
+            "text": "Giao đồ ăn\nHệ thống gợi ý được sử dụng để đề xuất nhà hàng và món ăn dựa trên sở thích và lịch sử đặt hàng của người dùng."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                305,
+                266,
+                471,
+                454
+            ],
+            "text": "Doanh nghiệp tin tức và truyền thông\nHệ thống gợi ý được sử dụng để đề xuất bài viết, video, podcast dựa trên lịch sử duyệt web."
+        },
+        {
+            "id": 8,
+            "bbox": [
+                305,
+                497,
+                702,
+                454
+            ],
+            "text": "Doanh nghiệp game\nHệ thống gợi ý được sử dụng để đề xuất game mới dựa trên xu hướng chơi và sở thích của người chơi."
+        },
+        {
+            "id": 9,
+            "bbox": [
+                305,
+                729,
+                934,
+                454
+            ],
+            "text": "Ứng dụng fitness\nHệ thống gợi ý được sử dụng để đề xuất kế hoạch tập luyện và chế độ ăn uống cá nhân hóa dựa trên mục tiêu và hoạt động trước đó của người dùng."
+        }
+    ],
+    "slide_21": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Data Science\nData Science"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                199,
+                66,
+                366,
+                266
+            ],
+            "text": "Phân tích hành vi lái xe\nPhân tích xu hướng thuê xe"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                146,
+                66,
+                380,
+                184
+            ],
+            "text": "Ví dụ phát triển và thực hiện PoC"
+        },
+        {
+            "id": 3,
+            "bbox": [
+                75,
+                27,
+                841,
+                131
+            ],
+            "text": "Hỗ trợ doanh nghiệp\nthực hiện phân tích dữ liệu, nhận được thông tin chi tiết và đưa ra quyết định dựa trên dữ liệu.\nSử dụng các công nghệ tiên tiến như Machine Learning và phân tích thống kê để xác định các mô hình và xu hướng trong tập dữ liệu."
+        }
+    ],
+    "slide_22": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Data Science\nData Science"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                75,
+                27,
+                906,
+                131
+            ],
+            "text": "Các doanh nghiệp có thể truy cập lượng lớn dữ liệu và muốn đưa ra quyết định dựa trên dữ liệu sẽ hưởng lợi từ việc áp dụng khoa học dữ liệu vào sản phẩm của mình."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                133,
+                36,
+                197,
+                282
+            ],
+            "text": "Doanh nghiệp e-commerce\nCó thể dự đoán nhu cầu và đề xuất sản phẩm cá nhân hóa dựa trên dữ liệu hành vi khách hàng."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                133,
+                218,
+                379,
+                282
+            ],
+            "text": "Chăm sóc sức khỏe\nCó thể áp dụng khoa học dữ liệu vào hỗ trợ chẩn đoán, phát triển thuốc mới, giám sát bệnh nhân."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                133,
+                400,
+                561,
+                282
+            ],
+            "text": "Tài chính\nKhoa học dữ liệu được sử dụng để phát hiện gian lận, đánh giá rủi ro, tối ưu hóa quản lý tài sản."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                133,
+                583,
+                744,
+                282
+            ],
+            "text": "Giao thông\nCó thể sử dụng khoa học dữ liệu để chọn tuyến đường tối ưu, giảm tiêu thụ nhiên liệu, cải thiện an toàn."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                305,
+                34,
+                195,
+                454
+            ],
+            "text": "Năng lượng\nCó thể tối ưu hóa tiêu thụ năng lượng, dự đoán nhu cầu, phân phối năng lượng hiệu quả."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                305,
+                216,
+                377,
+                454
+            ],
+            "text": "Nông nghiệp\nKhoa học dữ liệu được sử dụng để dự đoán sản lượng thu hoạch, dự báo thời tiết, giám sát sức khỏe đất."
+        },
+        {
+            "id": 8,
+            "bbox": [
+                305,
+                399,
+                560,
+                454
+            ],
+            "text": "Quảng cáo\nCó thể sử dụng khoa học dữ liệu để phân phối quảng cáo cho mục tiêu cụ thể, tối ưu hóa vị trí quảng cáo, đo lường hiệu quả chiến dịch quảng cáo."
+        },
+        {
+            "id": 9,
+            "bbox": [
+                305,
+                581,
+                742,
+                454
+            ],
+            "text": "Sản xuất\nKhoa học dữ liệu giúp tối ưu hóa quy trình sản xuất, giảm lãng phí, cải thiện chất lượng sản phẩm."
+        },
+        {
+            "id": 10,
+            "bbox": [
+                133,
+                767,
+                928,
+                282
+            ],
+            "text": "Bán lẻ\nCó thể quản lý tồn kho, dự đoán nhu cầu, thực hiện các chương trình khuyến mãi cá nhân hóa."
+        },
+        {
+            "id": 11,
+            "bbox": [
+                305,
+                765,
+                926,
+                454
+            ],
+            "text": "Giáo dục\nCó thể tối ưu hóa trải nghiệm học tập, dự đoán kết quả học tập, xác định hỗ trợ cần thiết cho học sinh."
+        }
+    ],
+    "slide_23": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Edge Computing\nEdge Computing"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                196,
+                573,
+                906,
+                231
+            ],
+            "text": "Hệ thống khóa cửa dựa trên nhận diện khuôn mặt"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                146,
+                548,
+                862,
+                184
+            ],
+            "text": "Ví dụ phát triển và thực hiện PoC"
+        },
+        {
+            "id": 3,
+            "bbox": [
+                75,
+                27,
+                925,
+                131
+            ],
+            "text": "Dịch vụ điện toán biên mang tài nguyên tính toán đến gần thiết bị tạo dữ liệu hơn, cung cấp xử lý dữ liệu nhanh hơn và hiệu quả hơn.\nĐiều này cho phép phân tích dữ liệu thời gian thực, cải thiện ra quyết định và thời gian phản ứng."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                146,
+                47,
+                489,
+                184
+            ],
+            "text": "Đặc điểm của Edge Computing"
+        },
+        {
+            "id": 5,
+            "bbox": [
+                199,
+                47,
+                489,
+                396
+            ],
+            "text": "Nhanh hơn so với Cloud Computing\nGiảm yêu cầu băng thông, chi phí băng thông internet và lưu trữ đám mây\nKết hợp mức độ bảo mật cao và tốc độ cao cải thiện độ tin cậy của hệ thống Edge AI\nXử lý Edge Computing tại biên của thiết bị rất tiết kiệm chi phí và giảm chi phí"
+        }
+    ],
+    "slide_24": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Edge AI\nỨng dụng của điện toán biên\ntrong các ngành"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                75,
+                27,
+                935,
+                110
+            ],
+            "text": "Các doanh nghiệp đã có AI model/system và muốn triển khai trên mobile app/web app, hoặc muốn phát triển app có tính năng AI"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                133,
+                38,
+                238,
+                282
+            ],
+            "text": "Y tế\nEdge AI được sử dụng trong thiết bị y tế để phân tích dữ liệu bệnh nhân, phát hiện bất thường thời gian thực, cho phép chẩn đoán và điều trị nhanh hơn."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                133,
+                264,
+                464,
+                282
+            ],
+            "text": "Giao thông\nEdge AI được sử dụng trong xe tự hành để cải thiện an toàn, tối ưu hóa lộ trình, nâng cao trải nghiệm lái xe."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                133,
+                490,
+                690,
+                282
+            ],
+            "text": "Nông nghiệp\nEdge AI được sử dụng trong thiết bị nông nghiệp để tối ưu hóa sản lượng cây trồng, phát hiện và ngăn ngừa bệnh tật, giảm lãng phí tài nguyên."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                133,
+                716,
+                916,
+                282
+            ],
+            "text": "Mua sắm ảo\nKết hợp với thực tế tăng cường, người tiêu dùng có thể sử dụng thiết bị di động để trực quan hóa sản phẩm trong môi trường của mình."
+        }
+    ],
+    "slide_25": [
+        {
+            "id": 0,
+            "text": "Generative AI\nGenerative AI"
+        },
+        {
+            "id": 1,
+            "text": "Generative AI là trí tuệ nhân tạo tạo ra nhiều loại nội dung khác nhau như văn bản, hình ảnh, âm thanh, video, mã code, dữ liệu tổng hợp. Generative AI sử dụng các thuật toán thông minh để phân tích các mẫu dữ liệu hiện có và tạo ra nội dung thực tế và nguyên bản."
+        },
+        {
+            "id": 2,
+            "text": "OpenAI\nChatGPT"
+        },
+        {
+            "id": 3,
+            "text": "Google\nGemini"
+        },
+        {
+            "id": 4,
+            "text": "Midjourney"
+        },
+        {
+            "id": 5,
+            "text": "Stable Diffusion"
+        }
+    ],
+    "slide_26": [
+        {
+            "id": 0,
+            "text": "Generative AI\nGenerative AI"
+        },
+        {
+            "id": 1,
+            "text": "Lợi ích của Generative AI có khả năng tạo thông tin mới như con người"
+        },
+        {
+            "id": 2,
+            "text": "Sáng tạo\nCó khả năng tạo ra nội dung mới. Điều này bao gồm việc tạo ra âm nhạc, thơ, hình ảnh, thậm chí cả các thiết kế hoàn toàn mới."
+        },
+        {
+            "id": 3,
+            "text": "Tự động hóa\nCó khả năng tự động hóa các công việc như tác vụ hàng ngày, tạo báo cáo, tạo nội dung."
+        },
+        {
+            "id": 4,
+            "text": "Cá nhân hóa\nTạo nội dung cá nhân hóa dựa trên hành vi và sở thích của người dùng, cải thiện sự tương tác."
+        },
+        {
+            "id": 5,
+            "text": "Khả năng mở rộng\nCác mô hình được huấn luyện có khả năng xử lý lượng lớn dữ liệu và thực hiện các công việc quy mô lớn một cách nhanh chóng."
+        },
+        {
+            "id": 6,
+            "text": "Mở rộng và bổ sung dữ liệu\nTạo dữ liệu mới dựa trên dữ liệu hiện có, mở rộng bộ dữ liệu và bổ sung các dữ liệu còn thiếu."
+        },
+        {
+            "id": 7,
+            "text": "Khả năng dự đoán\nCác thuật toán học máy có khả năng dự đoán các sự kiện trong tương lai dựa trên các mẫu trong quá khứ, tạo ra các kịch bản và kết quả có thể xảy ra trong tương lai."
+        },
+        {
+            "id": 8,
+            "text": "Hiểu biết thông tin\nHiểu văn bản, hình ảnh, âm nhạc và tạo nội dung mới, hỗ trợ giải quyết vấn đề và cung cấp góc nhìn mới."
+        },
+        {
+            "id": 9,
+            "text": "Generative AI không hoàn hảo và có thể tạo ra thông tin sai lệch hoặc gặp phải các vấn đề đạo đức. Để giải quyết các vấn đề này, cần có huấn luyện, giám sát và điều chỉnh phù hợp."
+        }
+    ],
+    "slide_27": [
+        {
+            "id": 0,
+            "text": "Generative AI\nGenerative AI"
+        },
+        {
+            "id": 1,
+            "text": "Công ty chúng tôi cung cấp dịch vụ sử dụng Generative AI (như ChatGPT và Stable Diffusion) trong kinh doanh."
+        },
+        {
+            "id": 2,
+            "text": "Ví dụ về dịch vụ sử dụng ChatGPT và Stable Diffusion"
+        },
+        {
+            "id": 3,
+            "text": "Prompt Engineering\nTạo prompt và hướng dẫn cho các mô hình ngôn ngữ như ChatGPT và Stable Diffusion để thu được phản hồi mong muốn."
+        },
+        {
+            "id": 4,
+            "text": "Chatbot tích hợp ChatGPT"
+        },
+        {
+            "id": 5,
+            "text": "Tạo và tự động hóa nội dung"
+        },
+        {
+            "id": 6,
+            "text": "Dịch thuật ngôn ngữ và giao tiếp"
+        },
+        {
+            "id": 7,
+            "text": "Phân tích cảm xúc"
+        },
+        {
+            "id": 8,
+            "text": "Tùy chỉnh mô hình AI\nTùy chỉnh các mô hình đã được huấn luyện để phù hợp với bộ dữ liệu cụ thể, tạo trải nghiệm đối thoại cá nhân hóa và chính xác hơn."
+        }
+    ],
+    "slide_28": [
+        {
+            "id": 0,
+            "text": "Generative AI\nGenerative AI"
+        },
+        {
+            "id": 1,
+            "text": "Ví dụ về các ngành kinh doanh có thể sử dụng Generative AI như ChatGPT và Stable Diffusion."
+        },
+        {
+            "id": 2,
+            "text": "E-commerce và bán lẻ"
+        },
+        {
+            "id": 3,
+            "text": "Truyền thông và giải trí"
+        },
+        {
+            "id": 4,
+            "text": "Marketing và quảng cáo"
+        },
+        {
+            "id": 5,
+            "text": "Game và thực tế ảo"
+        },
+        {
+            "id": 6,
+            "text": "Ví dụ sử dụng ChatGPT\nHỗ trợ khách hàng cá nhân hóa, trả lời câu hỏi về sản phẩm, cung cấp đề xuất."
+        },
+        {
+            "id": 7,
+            "text": "Ví dụ sử dụng ChatGPT\nSử dụng để phát triển các host ảo hoặc đề xuất nội dung cá nhân hóa."
+        },
+        {
+            "id": 8,
+            "text": "Ví dụ sử dụng ChatGPT\nHỗ trợ tạo nội dung marketing hấp dẫn và cá nhân hóa, tạo nội dung trên mạng xã hội, phát triển quảng cáo chatbot tương tác."
+        },
+        {
+            "id": 9,
+            "text": "Ví dụ sử dụng ChatGPT\nTăng cường đối thoại trong game và cung cấp trải nghiệm kể chuyện tương tác."
+        },
+        {
+            "id": 10,
+            "text": "Ví dụ sử dụng Stable Diffusion\nTạo hình ảnh sản phẩm tùy chỉnh và cung cấp trải nghiệm thử nghiệm ảo."
+        },
+        {
+            "id": 11,
+            "text": "Ví dụ sử dụng Stable Diffusion\nPhát triển kể chuyện tương tác, tạo hiệu ứng hình ảnh động và tạo nhân vật ảo."
+        },
+        {
+            "id": 12,
+            "text": "Ví dụ sử dụng Stable Diffusion\nTạo hình ảnh tùy chỉnh và mô phỏng sắp xếp sản phẩm trong các kịch bản khác nhau."
+        },
+        {
+            "id": 13,
+            "text": "Ví dụ sử dụng Stable Diffusion\nTạo đồ họa thực tế, thiết kế nhân vật game và tạo môi trường ảo động."
+        }
+    ],
+    "slide_29": [
+        {
+            "id": 0,
+            "text": "Dịch vụ liên quan của công ty bạn: Tư vấn trực tuyến / AI đào tạo"
+        }
+    ],
+    "slide_30": [],
+    "slide_31": [],
+    "slide_32": [
+        {
+            "id": 0,
+            "text": "Computer Vision\nVí dụ về PoC"
+        }
+    ],
+    "slide_33": [
+        {
+            "id": 0,
+            "text": "Computer Vision\nComputer Vision"
+        },
+        {
+            "id": 1,
+            "text": "Công cụ chuyển đổi phương trình Toán học sang LaTeX\n (video)"
+        },
+        {
+            "id": 2,
+            "text": "Demo OCR tiếng Nhật\n (video)"
+        },
+        {
+            "id": 3,
+            "text": "Nhận dạng ký tự quang học (OCR) hỗ trợ tiếng Nhật"
+        },
+        {
+            "id": 4,
+            "text": "Công cụ chuyển đổi phương trình Toán học sang LaTeX"
+        }
+    ],
+    "slide_34": [
+        {
+            "id": 0,
+            "text": "Computer Vision\nComputer Vision"
+        },
+        {
+            "id": 1,
+            "text": "Công cụ trích xuất thông tin ứng viên từ CV"
+        },
+        {
+            "id": 2,
+            "text": "Phát hiện hư hỏng xe / Phát hiện bộ phận xe / Phát hiện thương hiệu xe"
+        },
+        {
+            "id": 3,
+            "text": "PoC bảo hiểm ô tô"
+        },
+        {
+            "id": 4,
+            "text": "PoC xử lý hình ảnh"
+        },
+        {
+            "id": 5,
+            "text": "Trích xuất thông tin ứng viên từ CV, tiết kiệm thời gian cho nhà tuyển dụng"
+        }
+    ],
+    "slide_35": [
+        {
+            "id": 0,
+            "text": "Computer Vision\nComputer Vision"
+        },
+        {
+            "id": 1,
+            "text": "Virtual Camera\nCó khả năng chuyển đổi tư thế của con người sang tư thế của nhân vật trong thời gian thực. Có thể áp dụng trong các cuộc họp video ảo."
+        },
+        {
+            "id": 2,
+            "text": "PoC xử lý hình ảnh"
+        },
+        {
+            "id": 3,
+            "text": "Demo video biến đổi thành nhân vật anime"
+        }
+    ],
+    "slide_36": [
+        {
+            "id": 0,
+            "text": "Ví dụ về PoC xử lý giọng nói"
+        }
+    ],
+    "slide_37": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Audio signal processing\nAudio signal processing"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                96,
+                35,
+                470,
+                144
+            ],
+            "text": "Text to speech"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                151,
+                40,
+                463,
+                335
+            ],
+            "text": "Hệ thống đọc văn bản do Sun* phát triển là một nền tảng tổng hợp tiếng Việt. Hệ thống đọc văn bản chuyển đổi văn bản ngôn ngữ thông thường thành định dạng âm thanh (wav). Hệ thống này được xây dựng trên các kiến trúc Deep Learning: WaveNet, Tacotron2, trên framework PyTorch. Tổng hợp giọng nói là một lĩnh vực tiềm năng được áp dụng trong nhiều lĩnh vực như trung tâm cuộc gọi, các nền tảng đọc sách trực tuyến và tạo video/clip."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                96,
+                504,
+                939,
+                144
+            ],
+            "text": "Chuyển đổi giọng nói tiếng Nhật"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                151,
+                504,
+                927,
+                223
+            ],
+            "text": "Chuyển đổi giọng nói là công nghệ chuyển đổi giọng nói của một người nói sang giọng nói của người nói khác mà không thay đổi thông tin ngôn ngữ, cho phép chỉnh sửa giọng nói mà không làm thay đổi thông tin ngôn ngữ."
+        },
+        {
+            "id": 5,
+            "bbox": [
+                404,
+                504,
+                638,
+                435
+            ],
+            "text": "Giọng nói nguồn của A"
+        },
+        {
+            "id": 6,
+            "bbox": [
+                404,
+                849,
+                955,
+                435
+            ],
+            "text": "Giọng nói gốc của B"
+        },
+        {
+            "id": 7,
+            "bbox": [
+                404,
+                744,
+                871,
+                435
+            ],
+            "text": "Giọng nói của B sau khi chuyển đổi"
+        },
+        {
+            "id": 8,
+            "bbox": [
+                335,
+                510,
+                928,
+                367
+            ],
+            "text": "Mẫu (bấm vào biểu tượng âm thanh để nghe bản demo)"
+        },
+        {
+            "id": 9,
+            "bbox": [
+                436,
+                515,
+                933,
+                536
+            ],
+            "text": "Bản demo của việc chuyển đổi giọng nói mà đội AI của Sun* đã nghiên cứu. Mẫu khác có thể được tìm thấy tại đây. Hoặc, video demo về các trường hợp sử dụng được áp dụng vào 'Công cụ Biến thành Nhân vật Anime' có sẵn tại đây."
+        }
+    ],
+    "slide_38": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Audio signal processing\nAudio signal processing"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                96,
+                35,
+                470,
+                144
+            ],
+            "text": "Vocal Separation of Singers"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                151,
+                40,
+                463,
+                205
+            ],
+            "text": "Công nghệ tách biệt giọng hát và nhạc cụ từ nguồn âm thanh. Sử dụng mô hình phân tách dựa trên mạng nơ-ron sâu."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                96,
+                504,
+                939,
+                144
+            ],
+            "text": "Tìm kiếm âm nhạc tương tự"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                151,
+                504,
+                927,
+                260
+            ],
+            "text": "Ghi âm một đoạn nhạc ngắn từ microphone của điện thoại thông minh, chuyển đổi thành vân tay âm thanh và so sánh với cơ sở dữ liệu vân tay được lập chỉ mục để khớp với siêu dữ liệu tương ứng."
+        }
+    ],
+    "slide_39": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Audio signal processing\nAudio signal processing"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                96,
+                35,
+                470,
+                144
+            ],
+            "text": "Ứng dụng Talky Bird"
+        },
+        {
+            "id": 2,
+            "bbox": [
+                151,
+                40,
+                463,
+                316
+            ],
+            "text": "Ứng dụng di động hỗ trợ cải thiện phát âm trong việc học tiếng Nhật. Trí tuệ nhân tạo phân tích và đánh giá phát âm của người học, đưa ra gợi ý cải thiện. Đây là một ứng dụng học tập dành cho người dùng từ trình độ N4 trở lên trong kỳ thi năng lực tiếng Nhật, cung cấp hai danh mục: Giao tiếp hàng ngày và Giao tiếp trong môi trường công sở. Điểm nổi bật nhất là sử dụng công nghệ nhận dạng giọng nói để đánh giá giọng của người dùng. Sau khi người dùng phát âm, ứng dụng phân tích và đánh giá cách ngữ điệu và nội dung cuộc trò chuyện."
+        }
+    ],
+    "slide_40": [
+        {
+            "id": 0,
+            "bbox": [
+                243,
+                273,
+                685,
+                296
+            ],
+            "text": "Về Đội R&D AI"
+        }
+    ],
+    "slide_41": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Phát triển thành viên\nVề việc phát triển thành viên với tư cách là nhóm R&D"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                89,
+                29,
+                482,
+                180
+            ],
+            "text": "Các thành viên trong nhóm nghiên cứu ứng dụng và nhóm nghiên cứu vận hành chủ yếu làm việc như AI Engineer, trong khi nhóm nghiên cứu cơ bản đóng vai trò như AI Researcher. AI Engineer có 5 cấp bậc và AI Researcher có 4 cấp bậc."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                193,
+                34,
+                191,
+                297
+            ],
+            "text": "1"
+        },
+        {
+            "id": 3,
+            "bbox": [
+                193,
+                191,
+                348,
+                297
+            ],
+            "text": "Mô tả tổng quan về cấp bậc\nĐầu tiên, chúng tôi vẽ ra đặc điểm và tổng quan của mỗi cấp bậc trong từng chức vụ."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                297,
+                34,
+                191,
+                401
+            ],
+            "text": "2"
+        },
+        {
+            "id": 5,
+            "bbox": [
+                297,
+                191,
+                348,
+                401
+            ],
+            "text": "Quyết định nội dung công việc và vai trò cho từng nhóm\nTrong mỗi nhóm, nội dung công việc và vai trò phù hợp với mỗi cấp bậc được phân công cho các thành viên."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                402,
+                34,
+                191,
+                506
+            ],
+            "text": "3"
+        },
+        {
+            "id": 7,
+            "bbox": [
+                402,
+                191,
+                348,
+                506
+            ],
+            "text": "Định nghĩa yêu cầu chức năng\nSau khi quyết định vai trò và nội dung công việc, các yêu cầu chức năng cần thiết sẽ được xác định rõ ràng. Điều này bao gồm từ kiến thức chung và kỹ năng cơ bản (giao tiếp, thuyết trình, tư duy logic, tư duy phản biện, v.v.) đến các kỹ năng chuyên môn và kỹ năng lãnh đạo."
+        },
+        {
+            "id": 8,
+            "bbox": [
+                433,
+                31,
+                481,
+                487
+            ],
+            "text": "Thông qua hệ thống này, chúng tôi làm rõ cấu trúc của nhóm và vai trò của từng thành viên, nâng cao hiệu quả và năng suất của toàn tổ chức."
+        }
+    ],
+    "slide_42": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Vai Trò và Sự Hợp Tác\nVề vai trò và cách hợp tác trong Đội R&D AI"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                80,
+                31,
+                923,
+                134
+            ],
+            "text": "Tổ chức nhóm phù hợp với các giai đoạn sử dụng Trí tuệ Nhân tạo, đồng thời thúc đẩy nghiên cứu cơ bản và phát triển, vận hành Trí tuệ Nhân tạo, phối hợp theo hướng Agile nếu cần, và tiến hành theo dõi dự án qua sự liên kết giữa các nhóm."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                160,
+                48,
+                225,
+                208
+            ],
+            "text": "Nhóm Nghiên cứu Cơ bản Trí tuệ Nhân tạo\nFundamental Research"
+        },
+        {
+            "id": 3,
+            "bbox": [
+                284,
+                48,
+                225,
+                332
+            ],
+            "text": "Nhóm Nghiên cứu Ứng dụng Trí tuệ Nhân tạo\nApplied Research"
+        },
+        {
+            "id": 4,
+            "bbox": [
+                408,
+                28,
+                248,
+                456
+            ],
+            "text": "Nhóm Nghiên cứu Vận hành Trí tuệ Nhân tạo\nOperation Research"
+        },
+        {
+            "id": 5,
+            "bbox": [
+                402,
+                225,
+                872,
+                466
+            ],
+            "text": "Sau khi hoàn thành giai đoạn PoC, nhóm Nghiên cứu Vận hành sẽ tiến hành việc triển khai mô hình Trí tuệ Nhân tạo lên cloud, xây dựng pipeline và kiến trúc liên quan đến Trí tuệ Nhân tạo. Trong trường hợp cần kỹ sư dữ liệu từ giai đoạn thu thập dữ liệu, họ sẽ tham gia dự án từ giai đoạn này để hỗ trợ xây dựng cơ sở dữ liệu."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                278,
+                225,
+                872,
+                338
+            ],
+            "text": "Trong giai đoạn thực hiện định nghĩa và phát triển mô hình Trí tuệ Nhân tạo, các thành viên của Nhóm Nghiên cứu Ứng dụng sẽ tham gia dự án và chịu trách nhiệm phát triển mô hình Trí tuệ Nhân tạo."
+        },
+        {
+            "id": 7,
+            "bbox": [
+                154,
+                225,
+                872,
+                214
+            ],
+            "text": "Trong trường hợp có yêu cầu về lĩnh vực mới hoặc giải pháp mới, hoặc cần tham khảo tài liệu nghiên cứu hoặc tạo ra ý tưởng giải pháp mới, Nhóm Nghiên cứu Cơ bản sẽ hỗ trợ như một phần của dự án."
+        }
+    ],
+    "slide_43": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Vai trò và Hợp tác\nVề nỗ lực cải thiện độ chính xác của AI"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                80,
+                31,
+                923,
+                115
+            ],
+            "text": "Nhờ vào việc tổ chức các nhóm nghiên cứu cơ bản, ứng dụng và vận hành của AI, Sun có thể thực hiện các biện pháp để nâng cao độ chính xác của AI theo cách riêng của mình."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                131,
+                58,
+                215,
+                193
+            ],
+            "text": "Thu thập"
+        },
+        {
+            "id": 3,
+            "bbox": [
+                131,
+                215,
+                372,
+                193
+            ],
+            "text": "Luôn giám sát hoạt động của mô hình trong môi trường thực tế, thu thập log dữ liệu về trạng thái, đầu vào, đầu ra và lỗi của mô hình."
+        },
+        {
+            "id": 4,
+            "bbox": [
+                193,
+                58,
+                215,
+                255
+            ],
+            "text": "Đánh giá"
+        },
+        {
+            "id": 5,
+            "bbox": [
+                193,
+                215,
+                372,
+                255
+            ],
+            "text": "Thường xuyên phân tích và đánh giá hiệu quả của mô hình hiện tại."
+        },
+        {
+            "id": 6,
+            "bbox": [
+                256,
+                58,
+                215,
+                318
+            ],
+            "text": "Học tập"
+        },
+        {
+            "id": 7,
+            "bbox": [
+                256,
+                215,
+                372,
+                318
+            ],
+            "text": "Đo lường sự khác biệt của dữ liệu theo thời gian, lên kế hoạch bổ sung dữ liệu mới, cải thiện mô hình bằng cách huấn luyện lại hoặc thử các thuật toán mới để mô hình thích ứng với dữ liệu mới."
+        },
+        {
+            "id": 8,
+            "bbox": [
+                319,
+                58,
+                215,
+                381
+            ],
+            "text": "Tự động hóa"
+        },
+        {
+            "id": 9,
+            "bbox": [
+                319,
+                215,
+                372,
+                381
+            ],
+            "text": "Xây dựng pipeline cho việc học tập và triển khai mô hình để tự động hóa quy trình xung quanh AI, cho phép triển khai mô hình mới nhanh chóng và hiệu quả."
+        },
+        {
+            "id": 10,
+            "bbox": [
+                382,
+                58,
+                215,
+                444
+            ],
+            "text": "Hệ thống"
+        },
+        {
+            "id": 11,
+            "bbox": [
+                382,
+                215,
+                372,
+                444
+            ],
+            "text": "Điều chỉnh hệ thống, phân công các thành viên của nhóm nghiên cứu cơ bản hoặc những thành viên có chuyên môn trong lĩnh vực dự án để xem xét nhiều giải pháp mới."
+        }
+    ],
+    "slide_44": [
+        {
+            "id": 0,
+            "bbox": [
+                5,
+                8,
+                959,
+                75
+            ],
+            "text": "Các biện pháp an ninh và phương pháp quản lý\nVề các biện pháp an ninh và phương pháp quản lý"
+        },
+        {
+            "id": 1,
+            "bbox": [
+                80,
+                31,
+                923,
+                133
+            ],
+            "text": "Chính nhờ vào việc có các nhóm Nghiên cứu Cơ bản, Ứng dụng và Vận hành AI, Sun* có thể cải thiện độ chính xác của AI với một hệ thống đặc trưng."
+        },
+        {
+            "id": 2,
+            "bbox": [
+                159,
+                214,
+                861,
+                278
+            ],
+            "text": "ISO/IEC 27001:2013 đạt được\nSun* Việt Nam đã đạt được tiêu chuẩn quốc tế về an ninh thông tin ISO/IEC 27001:2013 và triển khai các chính sách, quy trình, tiêu chuẩn và biện pháp an ninh trên quy mô toàn công ty để giảm thiểu rủi ro an ninh. Tất cả nhân viên đều bắt buộc phải tham gia các khóa đào tạo về kiến thức an ninh và các biện pháp an ninh tuân theo tiêu chuẩn này."
+        },
+        {
+            "id": 3,
+            "bbox": [
+                327,
+                221,
+                868,
+                458
+            ],
+            "text": "Chính sách an ninh\nNhóm AI tuân thủ các quy tắc của công ty và đặc biệt chú ý đến các khía cạnh sau:\nChỉ thu thập dữ liệu cần thiết\nKhông tải dữ liệu về máy local nếu cần xử lý dữ liệu và huấn luyện mô hình trên cloud\nKhông chia sẻ dữ liệu của khách hàng với cả các thành viên trong cùng nhóm AI\nThực hiện sao lưu định kỳ dữ liệu được lưu trên server\nThực hiện dọn dẹp dữ liệu định kỳ trên máy của các thành viên"
+        }
+    ],
+    "slide_45": [
+        {
+            "id": 0,
+            "bbox": [
+                281,
+                0,
+                960,
+                410
+            ],
+            "text": "Tạo ra những điều tuyệt vời với AI \nmà có ý nghĩa\n."
+        }
+    ]
+}
